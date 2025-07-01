@@ -1,0 +1,1329 @@
+ Alternative                   , Attribute           , Parameter                                                        ,   Value ,   St-Err ,   P-value ,   T-value 
+ Acrylic scourer               , Intercept           , Intercept                                                        ,-0.266,0.226,0.24,-1.17
+ Bottle cleaner with handle    , Intercept           , Intercept                                                        ,-0.965,0.29,0.001,-3.32
+ Disposable Sheet              , Intercept           , Intercept                                                        ,-0.045,0.267,0.866,-0.17
+ Handled Dishwand              , Intercept           , Intercept                                                        ,-0.305,0.247,0.216,-1.24
+ Large sheet/wipe              , Intercept           , Intercept                                                        ,-0.388,0.254,0.127,-1.52
+ Metal Ball Scourer            , Intercept           , Intercept                                                        ,-0.408,0.751,0.587,-0.54
+ Net Sponge                    , Intercept           , Intercept                                                        ,0.116,0.254,0.648,0.46
+ Net/Mesh cloth                , Intercept           , Intercept                                                        ,-0.073,0.275,0.79,-0.27
+ Scrub Pad                     , Intercept           , Intercept                                                        ,-0.397,0.254,0.118,-1.56
+ Scrub Sponge                  , Intercept           , Intercept                                                        ,0.259,0.208,0.212,1.25
+ Sponge                        , Intercept           , Intercept                                                        ,0.118,0.268,0.658,0.44
+ 3-layers/2-sided scrub sponge , Brand               , Byulpyo                                                          ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Brand               , Cleanwrap                                                        ,-0.07,0.088,0.423,-0.8
+ 3-layers/2-sided scrub sponge , Brand               , Daiso                                                            ,-0.078,0.077,0.314,-1.01
+ 3-layers/2-sided scrub sponge , Brand               , Frog                                                             ,-0.185,0.083,0.025,-2.24
+ 3-layers/2-sided scrub sponge , Brand               , No Brand                                                         ,-0.195,0.084,0.021,-2.32
+ 3-layers/2-sided scrub sponge , Brand               , Scotch-Brite by 3M                                               ,0.143,0.084,0.088,1.71
+ 3-layers/2-sided scrub sponge , Brand               , Scott (Yuhan-Kimberly                                            ,-0.123,0.08,0.125,-1.54
+ 3-layers/2-sided scrub sponge , Brand               , Spontex                                                          ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Cleaning strength   , Extra tough/ extra heavy duty                                    ,0.037,0.054,0.486,0.7
+ 3-layers/2-sided scrub sponge , Cleaning strength   , Gentle/ delicate cleaning                                        ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Cleaning strength   , Tough Cleaning/ Heavy duty                                       ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Surface types       , Cast Iron (Cookware/Grills/etc                                   ,-0.197,0.085,0.021,-2.31
+ 3-layers/2-sided scrub sponge , Surface types       , Everyday dishware & utensils                                     ,0.085,0.084,0.311,1.01
+ 3-layers/2-sided scrub sponge , Surface types       , Glass (Cooktop                                                   ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Surface types       ," Non-Stick/Ceramic (Cookware, Dishware, etc                       ",0,0,1,0
+ 3-layers/2-sided scrub sponge , Surface types       ," Plastic (Dishware, Utensils, etc                                 ",0.089,0.084,0.289,1.06
+ 3-layers/2-sided scrub sponge , Surface types       ," Porcelain (Dishware, premium crockery, sink, etc                 ",-0.142,0.077,0.064,-1.85
+ 3-layers/2-sided scrub sponge , Surface types       , Stainless Steel (Cooktop                                         ,-0.152,0.079,0.054,-1.93
+ 3-layers/2-sided scrub sponge , Surface types       , Stainless Steel (Outdoor camping/BBQ                             ,-0.139,0.089,0.118,-1.56
+ 3-layers/2-sided scrub sponge , Surface types       , Stainless Steel (Sink /Cookware                                  ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Surface types       , Suitable for use across most surface types                       ,-0.065,0.082,0.43,-0.79
+ 3-layers/2-sided scrub sponge , Stain types         , Effective at removing different stuck on and oily stains         ,0.107,0.087,0.217,1.23
+ 3-layers/2-sided scrub sponge , Stain types         , Good at removing heavy oil stains                                ,-0.031,0.074,0.67,-0.43
+ 3-layers/2-sided scrub sponge , Stain types         , Good at removing light (non-oily                                 ,0.068,0.077,0.377,0.88
+ 3-layers/2-sided scrub sponge , Stain types         , Good at removing light oil stains                                ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Stain types         , Good at removing sticky stains                                   ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Stain types         , Good at removing stubborn burnt stains                           ,0.047,0.065,0.474,0.72
+ 3-layers/2-sided scrub sponge , Stain types         , Good at removing tea/coffee stains                               ,-0.033,0.072,0.643,-0.46
+ 3-layers/2-sided scrub sponge , Benefit             , Antibacterial/Prevent bacterial growth                           ,0.118,0.104,0.257,1.13
+ 3-layers/2-sided scrub sponge , Benefit             , Antimicrobial/Prevent mold & odor                                ,-0.029,0.077,0.705,-0.38
+ 3-layers/2-sided scrub sponge , Benefit             , Durable/long lasting                                             ,0.125,0.104,0.23,1.2
+ 3-layers/2-sided scrub sponge , Benefit             , Easy to grip                                                     ,-0.076,0.074,0.31,-1.01
+ 3-layers/2-sided scrub sponge , Benefit             , Easy to reach and clean tight corners and grooves                ,-0.168,0.094,0.075,-1.78
+ 3-layers/2-sided scrub sponge , Benefit             , Easy to rinse clean after use (food doesn't get stuck            ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Benefit             , Foam well with a small amount of detergent                       ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Benefit             , Stain resistant                                                  ,0.136,0.103,0.186,1.32
+ 3-layers/2-sided scrub sponge , Benefit             , Will not scratch or damage cleaning surfaces                     ,0.072,0.096,0.454,0.75
+ 3-layers/2-sided scrub sponge , Claim               , Convenient as no soap required (infused with  cleaning detergent ,0.118,0.083,0.154,1.43
+ 3-layers/2-sided scrub sponge , Claim               , Create a shiny finish after use                                  ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Claim               , Eco-friendly/Good for the environment                            ,0.177,0.097,0.068,1.83
+ 3-layers/2-sided scrub sponge , Claim               , Fun designs/ shapes to elevate your mood                         ,0.4,0.14,0.004,2.85
+ 3-layers/2-sided scrub sponge , Claim               , Guarantee satisfaction after use                                 ,0.183,0.09,0.043,2.02
+ 3-layers/2-sided scrub sponge , Claim               , Keeps your family safe                                           ,0.301,0.098,0.002,3.08
+ 3-layers/2-sided scrub sponge , Claim               ," Make cleaning a breeze, saves time to do the things you love     ",0.148,0.089,0.095,1.67
+ 3-layers/2-sided scrub sponge , Claim               , Scented (emits pleasant scent while cleaning                     ,0.323,0.136,0.018,2.37
+ 3-layers/2-sided scrub sponge , Claim               , Transform cleaning into a fun experience with foamy bubble       ,0.15,0.085,0.079,1.75
+ 3-layers/2-sided scrub sponge , Material            , 100% Recycled PET plastic                                        ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Material            , Flexible foam (texture changes with water temperature            ,-0.106,0.087,0.219,-1.23
+ 3-layers/2-sided scrub sponge , Material            ," Man-made fibre (e.g., polyester                                  ",0.14,0.091,0.125,1.53
+ 3-layers/2-sided scrub sponge , Material            , Melamine foam (magic eraser                                      ,-0.108,0.091,0.238,-1.18
+ 3-layers/2-sided scrub sponge , Material            , Natural cellulose sponge                                         ,-0.143,0.089,0.108,-1.61
+ 3-layers/2-sided scrub sponge , Material            , Natural coconut based fibre                                      ,-0.068,0.082,0.404,-0.83
+ 3-layers/2-sided scrub sponge , Material            , Natural corn based fibre                                         ,-0.12,0.087,0.168,-1.38
+ 3-layers/2-sided scrub sponge , Material            , Stay Fresh foam (foam that resist stains and odors               ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Price               ,                                                                  ,-0.091,0.026,0.001,-3.47
+ 3-layers/2-sided scrub sponge , Color               , Beige/Brown                                                      ,-0.065,0.075,0.388,-0.86
+ 3-layers/2-sided scrub sponge , Color               , Black                                                            ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Color               , Blue                                                             ,-0.25,0.102,0.014,-2.45
+ 3-layers/2-sided scrub sponge , Color               , Dark Green                                                       ,-0.157,0.081,0.052,-1.94
+ 3-layers/2-sided scrub sponge , Color               , Green                                                            ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Color               , Orange                                                           ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Color               , Pink                                                             ,0.128,0.084,0.126,1.53
+ 3-layers/2-sided scrub sponge , Color               , Purple                                                           ,-0.177,0.087,0.042,-2.03
+ 3-layers/2-sided scrub sponge , Color               , White                                                            ,-0.103,0.086,0.227,-1.21
+ 3-layers/2-sided scrub sponge , Color               , Yellow                                                           ,-0.117,0.076,0.123,-1.54
+ 3-layers/2-sided scrub sponge , Shape               , Flower                                                           ,0.254,0.104,0.014,2.45
+ 3-layers/2-sided scrub sponge , Shape               , Leaf                                                             ,0.078,0.081,0.334,0.97
+ 3-layers/2-sided scrub sponge , Shape               , Oval                                                             ,0.033,0.091,0.714,0.37
+ 3-layers/2-sided scrub sponge , Shape               , Rectangle                                                        ,0.21,0.089,0.018,2.36
+ 3-layers/2-sided scrub sponge , Shape               , Round                                                            ,0.084,0.09,0.354,0.93
+ 3-layers/2-sided scrub sponge , Shape               , Smiley                                                           ,0.198,0.118,0.092,1.68
+ 3-layers/2-sided scrub sponge , Shape               , Square                                                           ,0.138,0.095,0.147,1.45
+ 3-layers/2-sided scrub sponge , Shape               , Tear drop                                                        ,0,0,1,0
+ 3-layers/2-sided scrub sponge , Shape               , Wave                                                             ,0,0,1,0
+ Acrylic scourer               , Brand               , Byulpyo                                                          ,0,0,1,0
+ Acrylic scourer               , Brand               , Cleanwrap                                                        ,0.118,0.076,0.12,1.56
+ Acrylic scourer               , Brand               , Daiso                                                            ,0.176,0.078,0.024,2.25
+ Acrylic scourer               , Brand               , Frog                                                             ,0.039,0.075,0.6,0.52
+ Acrylic scourer               , Brand               , No Brand                                                         ,0.099,0.077,0.201,1.28
+ Acrylic scourer               , Brand               , Scotch-Brite by 3M                                               ,0.225,0.083,0.007,2.71
+ Acrylic scourer               , Brand               , Scott (Yuhan-Kimberly                                            ,0.125,0.073,0.088,1.71
+ Acrylic scourer               , Brand               , Spontex                                                          ,0.047,0.082,0.568,0.57
+ Acrylic scourer               , Cleaning strength   , Extra tough/ extra heavy duty                                    ,0,0,1,0
+ Acrylic scourer               , Cleaning strength   , Gentle/ delicate cleaning                                        ,-0.055,0.052,0.285,-1.07
+ Acrylic scourer               , Cleaning strength   , Tough Cleaning/ Heavy duty                                       ,-0.053,0.048,0.268,-1.11
+ Acrylic scourer               , Surface types       , Cast Iron (Cookware/Grills/etc                                   ,0.118,0.071,0.096,1.67
+ Acrylic scourer               , Surface types       , Everyday dishware & utensils                                     ,0,0,1,0
+ Acrylic scourer               , Surface types       , Glass (Cooktop                                                   ,0,0,1,0
+ Acrylic scourer               , Surface types       ," Non-Stick/Ceramic (Cookware, Dishware, etc                       ",0.077,0.068,0.258,1.13
+ Acrylic scourer               , Surface types       ," Plastic (Dishware, Utensils, etc                                 ",0,0,1,0
+ Acrylic scourer               , Surface types       ," Porcelain (Dishware, premium crockery, sink, etc                 ",0.052,0.075,0.493,0.69
+ Acrylic scourer               , Surface types       , Stainless Steel (Cooktop                                         ,0.229,0.084,0.007,2.71
+ Acrylic scourer               , Surface types       , Stainless Steel (Outdoor camping/BBQ                             ,0.087,0.073,0.233,1.19
+ Acrylic scourer               , Surface types       , Stainless Steel (Sink /Cookware                                  ,0.165,0.078,0.036,2.1
+ Acrylic scourer               , Surface types       , Suitable for use across most surface types                       ,0,0,1,0
+ Acrylic scourer               , Stain types         , Effective at removing different stuck on and oily stains         ,0,0,1,0
+ Acrylic scourer               , Stain types         , Good at removing heavy oil stains                                ,0.104,0.072,0.15,1.44
+ Acrylic scourer               , Stain types         , Good at removing light (non-oily                                 ,0,0,1,0
+ Acrylic scourer               , Stain types         , Good at removing light oil stains                                ,0.093,0.06,0.124,1.54
+ Acrylic scourer               , Stain types         , Good at removing sticky stains                                   ,0,0,1,0
+ Acrylic scourer               , Stain types         , Good at removing stubborn burnt stains                           ,0.083,0.06,0.167,1.38
+ Acrylic scourer               , Stain types         , Good at removing tea/coffee stains                               ,0.159,0.083,0.055,1.92
+ Acrylic scourer               , Benefit             , Antibacterial/Prevent bacterial growth                           ,-0.232,0.11,0.034,-2.12
+ Acrylic scourer               , Benefit             , Antimicrobial/Prevent mold & odor                                ,-0.288,0.113,0.011,-2.55
+ Acrylic scourer               , Benefit             , Durable/long lasting                                             ,-0.332,0.126,0.008,-2.64
+ Acrylic scourer               , Benefit             , Easy to grip                                                     ,-0.113,0.103,0.274,-1.09
+ Acrylic scourer               , Benefit             , Easy to reach and clean tight corners and grooves                ,-0.149,0.1,0.137,-1.49
+ Acrylic scourer               , Benefit             , Easy to rinse clean after use (food doesn't get stuck            ,-0.085,0.087,0.327,-0.98
+ Acrylic scourer               , Benefit             , Foam well with a small amount of detergent                       ,-0.126,0.105,0.227,-1.21
+ Acrylic scourer               , Benefit             , Stain resistant                                                  ,-0.156,0.106,0.142,-1.47
+ Acrylic scourer               , Benefit             , Will not scratch or damage cleaning surfaces                     ,-0.227,0.113,0.044,-2.01
+ Acrylic scourer               , Claim               , Convenient as no soap required (infused with  cleaning detergent ,-0.128,0.078,0.103,-1.63
+ Acrylic scourer               , Claim               , Create a shiny finish after use                                  ,0.08,0.117,0.496,0.68
+ Acrylic scourer               , Claim               , Eco-friendly/Good for the environment                            ,-0.158,0.085,0.063,-1.86
+ Acrylic scourer               , Claim               , Fun designs/ shapes to elevate your mood                         ,-0.041,0.086,0.637,-0.47
+ Acrylic scourer               , Claim               , Guarantee satisfaction after use                                 ,0,0,1,0
+ Acrylic scourer               , Claim               , Keeps your family safe                                           ,-0.219,0.086,0.011,-2.56
+ Acrylic scourer               , Claim               ," Make cleaning a breeze, saves time to do the things you love     ",0,0,1,0
+ Acrylic scourer               , Claim               , Scented (emits pleasant scent while cleaning                     ,0,0,1,0
+ Acrylic scourer               , Claim               , Transform cleaning into a fun experience with foamy bubble       ,0.205,0.117,0.079,1.76
+ Acrylic scourer               , Material            , 100% Recycled PET plastic                                        ,0.059,0.069,0.388,0.86
+ Acrylic scourer               , Material            , Flexible foam (texture changes with water temperature            ,0.094,0.08,0.24,1.18
+ Acrylic scourer               , Material            ," Man-made fibre (e.g., polyester                                  ",0,0,1,0
+ Acrylic scourer               , Material            , Melamine foam (magic eraser                                      ,0.127,0.078,0.106,1.61
+ Acrylic scourer               , Material            , Natural cellulose sponge                                         ,0,0,1,0
+ Acrylic scourer               , Material            , Natural coconut based fibre                                      ,0.301,0.096,0.002,3.14
+ Acrylic scourer               , Material            , Natural corn based fibre                                         ,0.299,0.09,0.001,3.33
+ Acrylic scourer               , Material            , Stay Fresh foam (foam that resist stains and odors               ,-0.082,0.07,0.237,-1.18
+ Acrylic scourer               , Price               ,                                                                  ,-0.123,0.028,0,-4.37
+ Acrylic scourer               , Color               , Beige/Brown                                                      ,0,0,1,0
+ Acrylic scourer               , Color               , Black                                                            ,0.105,0.079,0.182,1.33
+ Acrylic scourer               , Color               , Blue                                                             ,0,0,1,0
+ Acrylic scourer               , Color               , Dark Green                                                       ,0.055,0.071,0.437,0.78
+ Acrylic scourer               , Color               , Green                                                            ,0.138,0.074,0.064,1.85
+ Acrylic scourer               , Color               , Orange                                                           ,0,0,1,0
+ Acrylic scourer               , Color               , Pink                                                             ,0.076,0.069,0.27,1.1
+ Acrylic scourer               , Color               , Purple                                                           ,0,0,1,0
+ Acrylic scourer               , Color               , White                                                            ,-0.106,0.085,0.21,-1.25
+ Acrylic scourer               , Color               , Yellow                                                           ,0,0,1,0
+ Acrylic scourer               , Shape               , Flower                                                           ,0.187,0.09,0.038,2.08
+ Acrylic scourer               , Shape               , Leaf                                                             ,0.285,0.104,0.006,2.74
+ Acrylic scourer               , Shape               , Oval                                                             ,0.219,0.104,0.036,2.1
+ Acrylic scourer               , Shape               , Rectangle                                                        ,0.376,0.117,0.001,3.2
+ Acrylic scourer               , Shape               , Round                                                            ,0.258,0.11,0.019,2.34
+ Acrylic scourer               , Shape               , Smiley                                                           ,0.12,0.091,0.19,1.31
+ Acrylic scourer               , Shape               , Square                                                           ,0.167,0.089,0.059,1.89
+ Acrylic scourer               , Shape               , Tear drop                                                        ,0.401,0.13,0.002,3.07
+ Acrylic scourer               , Shape               , Wave                                                             ,0.064,0.098,0.516,0.65
+ Bottle cleaner with handle    , Brand               , Byulpyo                                                          ,0,0,1,0
+ Bottle cleaner with handle    , Brand               , Cleanwrap                                                        ,0.215,0.088,0.015,2.43
+ Bottle cleaner with handle    , Brand               , Daiso                                                            ,-0.029,0.082,0.72,-0.36
+ Bottle cleaner with handle    , Brand               , Frog                                                             ,0.185,0.094,0.048,1.98
+ Bottle cleaner with handle    , Brand               , No Brand                                                         ,0.105,0.082,0.201,1.28
+ Bottle cleaner with handle    , Brand               , Scotch-Brite by 3M                                               ,0.322,0.099,0.001,3.24
+ Bottle cleaner with handle    , Brand               , Scott (Yuhan-Kimberly                                            ,0,0,1,0
+ Bottle cleaner with handle    , Brand               , Spontex                                                          ,0.081,0.089,0.359,0.92
+ Bottle cleaner with handle    , Cleaning strength   , Extra tough/ extra heavy duty                                    ,0.045,0.062,0.469,0.72
+ Bottle cleaner with handle    , Cleaning strength   , Gentle/ delicate cleaning                                        ,0.095,0.062,0.123,1.54
+ Bottle cleaner with handle    , Cleaning strength   , Tough Cleaning/ Heavy duty                                       ,0.081,0.067,0.231,1.2
+ Bottle cleaner with handle    , Surface types       , Cast Iron (Cookware/Grills/etc                                   ,0.101,0.093,0.281,1.08
+ Bottle cleaner with handle    , Surface types       , Everyday dishware & utensils                                     ,0.071,0.073,0.331,0.97
+ Bottle cleaner with handle    , Surface types       , Glass (Cooktop                                                   ,0.07,0.085,0.412,0.82
+ Bottle cleaner with handle    , Surface types       ," Non-Stick/Ceramic (Cookware, Dishware, etc                       ",0.111,0.08,0.162,1.4
+ Bottle cleaner with handle    , Surface types       ," Plastic (Dishware, Utensils, etc                                 ",0,0,1,0
+ Bottle cleaner with handle    , Surface types       ," Porcelain (Dishware, premium crockery, sink, etc                 ",0,0,1,0
+ Bottle cleaner with handle    , Surface types       , Stainless Steel (Cooktop                                         ,0,0,1,0
+ Bottle cleaner with handle    , Surface types       , Stainless Steel (Outdoor camping/BBQ                             ,0.247,0.098,0.012,2.52
+ Bottle cleaner with handle    , Surface types       , Stainless Steel (Sink /Cookware                                  ,0.039,0.087,0.655,0.45
+ Bottle cleaner with handle    , Surface types       , Suitable for use across most surface types                       ,0.151,0.087,0.084,1.73
+ Bottle cleaner with handle    , Stain types         , Effective at removing different stuck on and oily stains         ,0,0,1,0
+ Bottle cleaner with handle    , Stain types         , Good at removing heavy oil stains                                ,0.086,0.071,0.225,1.21
+ Bottle cleaner with handle    , Stain types         , Good at removing light (non-oily                                 ,0.077,0.092,0.405,0.83
+ Bottle cleaner with handle    , Stain types         , Good at removing light oil stains                                ,0.033,0.078,0.669,0.43
+ Bottle cleaner with handle    , Stain types         , Good at removing sticky stains                                   ,0,0,1,0
+ Bottle cleaner with handle    , Stain types         , Good at removing stubborn burnt stains                           ,-0.057,0.073,0.437,-0.78
+ Bottle cleaner with handle    , Stain types         , Good at removing tea/coffee stains                               ,0,0,1,0
+ Bottle cleaner with handle    , Benefit             , Antibacterial/Prevent bacterial growth                           ,0.107,0.099,0.282,1.08
+ Bottle cleaner with handle    , Benefit             , Antimicrobial/Prevent mold & odor                                ,0,0,1,0
+ Bottle cleaner with handle    , Benefit             , Durable/long lasting                                             ,0,0,1,0
+ Bottle cleaner with handle    , Benefit             , Easy to grip                                                     ,0.17,0.099,0.085,1.72
+ Bottle cleaner with handle    , Benefit             , Easy to reach and clean tight corners and grooves                ,0,0,1,0
+ Bottle cleaner with handle    , Benefit             , Easy to rinse clean after use (food doesn't get stuck            ,0.134,0.1,0.18,1.34
+ Bottle cleaner with handle    , Benefit             , Foam well with a small amount of detergent                       ,0.08,0.093,0.39,0.86
+ Bottle cleaner with handle    , Benefit             , Stain resistant                                                  ,-0.071,0.082,0.384,-0.87
+ Bottle cleaner with handle    , Benefit             , Will not scratch or damage cleaning surfaces                     ,-0.109,0.092,0.232,-1.19
+ Bottle cleaner with handle    , Claim               , Convenient as no soap required (infused with  cleaning detergent ,0.135,0.102,0.188,1.32
+ Bottle cleaner with handle    , Claim               , Create a shiny finish after use                                  ,0.067,0.092,0.465,0.73
+ Bottle cleaner with handle    , Claim               , Eco-friendly/Good for the environment                            ,0,0,1,0
+ Bottle cleaner with handle    , Claim               , Fun designs/ shapes to elevate your mood                         ,0.086,0.082,0.298,1.04
+ Bottle cleaner with handle    , Claim               , Guarantee satisfaction after use                                 ,0.129,0.096,0.18,1.34
+ Bottle cleaner with handle    , Claim               , Keeps your family safe                                           ,0,0,1,0
+ Bottle cleaner with handle    , Claim               ," Make cleaning a breeze, saves time to do the things you love     ",0.392,0.146,0.007,2.68
+ Bottle cleaner with handle    , Claim               , Scented (emits pleasant scent while cleaning                     ,0.209,0.107,0.051,1.95
+ Bottle cleaner with handle    , Claim               , Transform cleaning into a fun experience with foamy bubble       ,0.359,0.147,0.014,2.45
+ Bottle cleaner with handle    , Material            , 100% Recycled PET plastic                                        ,0.171,0.109,0.115,1.58
+ Bottle cleaner with handle    , Material            , Flexible foam (texture changes with water temperature            ,0.101,0.1,0.314,1.01
+ Bottle cleaner with handle    , Material            ," Man-made fibre (e.g., polyester                                  ",0.085,0.1,0.396,0.85
+ Bottle cleaner with handle    , Material            , Melamine foam (magic eraser                                      ,0.226,0.111,0.042,2.03
+ Bottle cleaner with handle    , Material            , Natural cellulose sponge                                         ,0.15,0.112,0.179,1.34
+ Bottle cleaner with handle    , Material            , Natural coconut based fibre                                      ,0.167,0.099,0.093,1.68
+ Bottle cleaner with handle    , Material            , Natural corn based fibre                                         ,0.354,0.127,0.005,2.78
+ Bottle cleaner with handle    , Material            , Stay Fresh foam (foam that resist stains and odors               ,0.111,0.099,0.264,1.12
+ Bottle cleaner with handle    , Price               ,                                                                  ,-0.05,0.029,0.083,-1.74
+ Bottle cleaner with handle    , Color               , Beige/Brown                                                      ,0,0,1,0
+ Bottle cleaner with handle    , Color               , Black                                                            ,-0.314,0.116,0.007,-2.71
+ Bottle cleaner with handle    , Color               , Blue                                                             ,-0.127,0.088,0.151,-1.43
+ Bottle cleaner with handle    , Color               , Dark Green                                                       ,-0.092,0.087,0.29,-1.06
+ Bottle cleaner with handle    , Color               , Green                                                            ,-0.089,0.08,0.266,-1.11
+ Bottle cleaner with handle    , Color               , Orange                                                           ,0,0,1,0
+ Bottle cleaner with handle    , Color               , Pink                                                             ,-0.052,0.085,0.545,-0.6
+ Bottle cleaner with handle    , Color               , Purple                                                           ,-0.034,0.075,0.653,-0.45
+ Bottle cleaner with handle    , Color               , White                                                            ,-0.173,0.091,0.057,-1.9
+ Bottle cleaner with handle    , Color               , Yellow                                                           ,0,0,1,0
+ Bottle cleaner with handle    , Shape               , Flower                                                           ,0.318,0.116,0.006,2.74
+ Bottle cleaner with handle    , Shape               , Leaf                                                             ,0.066,0.095,0.49,0.69
+ Bottle cleaner with handle    , Shape               , Oval                                                             ,0,0,1,0
+ Bottle cleaner with handle    , Shape               , Rectangle                                                        ,0.113,0.101,0.264,1.12
+ Bottle cleaner with handle    , Shape               , Round                                                            ,0.202,0.103,0.051,1.95
+ Bottle cleaner with handle    , Shape               , Smiley                                                           ,0.256,0.102,0.012,2.51
+ Bottle cleaner with handle    , Shape               , Square                                                           ,0.179,0.106,0.092,1.68
+ Bottle cleaner with handle    , Shape               , Tear drop                                                        ,0.316,0.121,0.009,2.61
+ Bottle cleaner with handle    , Shape               , Wave                                                             ,0.448,0.138,0.001,3.26
+ Disposable Sheet              , Brand               , Byulpyo                                                          ,-0.361,0.127,0.004,-2.85
+ Disposable Sheet              , Brand               , Cleanwrap                                                        ,0,0,1,0
+ Disposable Sheet              , Brand               , Daiso                                                            ,0,0,1,0
+ Disposable Sheet              , Brand               , Frog                                                             ,-0.072,0.094,0.447,-0.76
+ Disposable Sheet              , Brand               , No Brand                                                         ,0,0,1,0
+ Disposable Sheet              , Brand               , Scotch-Brite by 3M                                               ,0.2,0.095,0.036,2.1
+ Disposable Sheet              , Brand               , Scott (Yuhan-Kimberly                                            ,0.063,0.091,0.489,0.69
+ Disposable Sheet              , Brand               , Spontex                                                          ,0.041,0.093,0.664,0.43
+ Disposable Sheet              , Cleaning strength   , Extra tough/ extra heavy duty                                    ,-0.043,0.074,0.565,-0.58
+ Disposable Sheet              , Cleaning strength   , Gentle/ delicate cleaning                                        ,-0.044,0.075,0.553,-0.59
+ Disposable Sheet              , Cleaning strength   , Tough Cleaning/ Heavy duty                                       ,-0.086,0.075,0.253,-1.14
+ Disposable Sheet              , Surface types       , Cast Iron (Cookware/Grills/etc                                   ,0.113,0.086,0.191,1.31
+ Disposable Sheet              , Surface types       , Everyday dishware & utensils                                     ,0.11,0.097,0.255,1.14
+ Disposable Sheet              , Surface types       , Glass (Cooktop                                                   ,0,0,1,0
+ Disposable Sheet              , Surface types       ," Non-Stick/Ceramic (Cookware, Dishware, etc                       ",0.123,0.092,0.181,1.34
+ Disposable Sheet              , Surface types       ," Plastic (Dishware, Utensils, etc                                 ",0,0,1,0
+ Disposable Sheet              , Surface types       ," Porcelain (Dishware, premium crockery, sink, etc                 ",0.097,0.089,0.28,1.08
+ Disposable Sheet              , Surface types       , Stainless Steel (Cooktop                                         ,0.268,0.108,0.013,2.49
+ Disposable Sheet              , Surface types       , Stainless Steel (Outdoor camping/BBQ                             ,0.044,0.098,0.658,0.44
+ Disposable Sheet              , Surface types       , Stainless Steel (Sink /Cookware                                  ,0.065,0.086,0.449,0.76
+ Disposable Sheet              , Surface types       , Suitable for use across most surface types                       ,0,0,1,0
+ Disposable Sheet              , Stain types         , Effective at removing different stuck on and oily stains         ,0.086,0.08,0.281,1.08
+ Disposable Sheet              , Stain types         , Good at removing heavy oil stains                                ,0.193,0.097,0.046,1.99
+ Disposable Sheet              , Stain types         , Good at removing light (non-oily                                 ,0.154,0.091,0.091,1.69
+ Disposable Sheet              , Stain types         , Good at removing light oil stains                                ,0,0,1,0
+ Disposable Sheet              , Stain types         , Good at removing sticky stains                                   ,0,0,1,0
+ Disposable Sheet              , Stain types         , Good at removing stubborn burnt stains                           ,0.065,0.076,0.391,0.86
+ Disposable Sheet              , Stain types         , Good at removing tea/coffee stains                               ,0,0,1,0
+ Disposable Sheet              , Benefit             , Antibacterial/Prevent bacterial growth                           ,-0.037,0.093,0.689,-0.4
+ Disposable Sheet              , Benefit             , Antimicrobial/Prevent mold & odor                                ,0.232,0.114,0.042,2.03
+ Disposable Sheet              , Benefit             , Durable/long lasting                                             ,0,0,1,0
+ Disposable Sheet              , Benefit             , Easy to grip                                                     ,0,0,1,0
+ Disposable Sheet              , Benefit             , Easy to reach and clean tight corners and grooves                ,0.137,0.106,0.197,1.29
+ Disposable Sheet              , Benefit             , Easy to rinse clean after use (food doesn't get stuck            ,0.125,0.095,0.188,1.32
+ Disposable Sheet              , Benefit             , Foam well with a small amount of detergent                       ,-0.171,0.094,0.069,-1.82
+ Disposable Sheet              , Benefit             , Stain resistant                                                  ,-0.139,0.093,0.138,-1.48
+ Disposable Sheet              , Benefit             , Will not scratch or damage cleaning surfaces                     ,-0.137,0.091,0.131,-1.51
+ Disposable Sheet              , Claim               , Convenient as no soap required (infused with  cleaning detergent ,-0.352,0.145,0.015,-2.43
+ Disposable Sheet              , Claim               , Create a shiny finish after use                                  ,-0.168,0.117,0.151,-1.44
+ Disposable Sheet              , Claim               , Eco-friendly/Good for the environment                            ,-0.189,0.124,0.126,-1.53
+ Disposable Sheet              , Claim               , Fun designs/ shapes to elevate your mood                         ,-0.347,0.14,0.013,-2.48
+ Disposable Sheet              , Claim               , Guarantee satisfaction after use                                 ,0,0,1,0
+ Disposable Sheet              , Claim               , Keeps your family safe                                           ,-0.216,0.123,0.08,-1.75
+ Disposable Sheet              , Claim               ," Make cleaning a breeze, saves time to do the things you love     ",-0.377,0.14,0.007,-2.7
+ Disposable Sheet              , Claim               , Scented (emits pleasant scent while cleaning                     ,-0.198,0.13,0.127,-1.53
+ Disposable Sheet              , Claim               , Transform cleaning into a fun experience with foamy bubble       ,-0.127,0.12,0.288,-1.06
+ Disposable Sheet              , Material            , 100% Recycled PET plastic                                        ,-0.177,0.104,0.09,-1.69
+ Disposable Sheet              , Material            , Flexible foam (texture changes with water temperature            ,0.104,0.107,0.332,0.97
+ Disposable Sheet              , Material            ," Man-made fibre (e.g., polyester                                  ",-0.076,0.109,0.487,-0.7
+ Disposable Sheet              , Material            , Melamine foam (magic eraser                                      ,-0.096,0.095,0.314,-1.01
+ Disposable Sheet              , Material            , Natural cellulose sponge                                         ,0.113,0.111,0.309,1.02
+ Disposable Sheet              , Material            , Natural coconut based fibre                                      ,0,0,1,0
+ Disposable Sheet              , Material            , Natural corn based fibre                                         ,0.166,0.107,0.121,1.55
+ Disposable Sheet              , Material            , Stay Fresh foam (foam that resist stains and odors               ,0.114,0.1,0.254,1.14
+ Disposable Sheet              , Price               ,                                                                  ,-0.101,0.039,0.009,-2.6
+ Disposable Sheet              , Color               , Beige/Brown                                                      ,-0.094,0.106,0.378,-0.88
+ Disposable Sheet              , Color               , Black                                                            ,-0.13,0.111,0.24,-1.18
+ Disposable Sheet              , Color               , Blue                                                             ,-0.144,0.111,0.198,-1.29
+ Disposable Sheet              , Color               , Dark Green                                                       ,0,0,1,0
+ Disposable Sheet              , Color               , Green                                                            ,0,0,1,0
+ Disposable Sheet              , Color               , Orange                                                           ,-0.183,0.112,0.103,-1.63
+ Disposable Sheet              , Color               , Pink                                                             ,-0.101,0.106,0.341,-0.95
+ Disposable Sheet              , Color               , Purple                                                           ,-0.138,0.106,0.191,-1.31
+ Disposable Sheet              , Color               , White                                                            ,-0.105,0.104,0.314,-1.01
+ Disposable Sheet              , Color               , Yellow                                                           ,0.066,0.101,0.516,0.65
+ Disposable Sheet              , Shape               , Flower                                                           ,0,0,1,0
+ Disposable Sheet              , Shape               , Leaf                                                             ,0.261,0.114,0.023,2.28
+ Disposable Sheet              , Shape               , Oval                                                             ,-0.146,0.103,0.157,-1.41
+ Disposable Sheet              , Shape               , Rectangle                                                        ,0.081,0.089,0.36,0.92
+ Disposable Sheet              , Shape               , Round                                                            ,0.098,0.097,0.316,1
+ Disposable Sheet              , Shape               , Smiley                                                           ,0,0,1,0
+ Disposable Sheet              , Shape               , Square                                                           ,0,0,1,0
+ Disposable Sheet              , Shape               , Tear drop                                                        ,0.134,0.099,0.177,1.35
+ Disposable Sheet              , Shape               , Wave                                                             ,0.084,0.092,0.361,0.91
+ Handled Dishwand              , Brand               , Byulpyo                                                          ,-0.24,0.09,0.007,-2.67
+ Handled Dishwand              , Brand               , Cleanwrap                                                        ,0,0,1,0
+ Handled Dishwand              , Brand               , Daiso                                                            ,-0.113,0.075,0.133,-1.5
+ Handled Dishwand              , Brand               , Frog                                                             ,-0.162,0.08,0.044,-2.02
+ Handled Dishwand              , Brand               , No Brand                                                         ,-0.1,0.076,0.19,-1.31
+ Handled Dishwand              , Brand               , Scotch-Brite by 3M                                               ,-0.003,0.081,0.97,-0.04
+ Handled Dishwand              , Brand               , Scott (Yuhan-Kimberly                                            ,0,0,1,0
+ Handled Dishwand              , Brand               , Spontex                                                          ,-0.134,0.078,0.085,-1.72
+ Handled Dishwand              , Cleaning strength   , Extra tough/ extra heavy duty                                    ,-0.054,0.051,0.291,-1.06
+ Handled Dishwand              , Cleaning strength   , Gentle/ delicate cleaning                                        ,0,0,1,0
+ Handled Dishwand              , Cleaning strength   , Tough Cleaning/ Heavy duty                                       ,0.023,0.052,0.658,0.44
+ Handled Dishwand              , Surface types       , Cast Iron (Cookware/Grills/etc                                   ,0,0,1,0
+ Handled Dishwand              , Surface types       , Everyday dishware & utensils                                     ,-0.055,0.069,0.431,-0.79
+ Handled Dishwand              , Surface types       , Glass (Cooktop                                                   ,0,0,1,0
+ Handled Dishwand              , Surface types       ," Non-Stick/Ceramic (Cookware, Dishware, etc                       ",0,0,1,0
+ Handled Dishwand              , Surface types       ," Plastic (Dishware, Utensils, etc                                 ",-0.131,0.081,0.106,-1.62
+ Handled Dishwand              , Surface types       ," Porcelain (Dishware, premium crockery, sink, etc                 ",0,0,1,0
+ Handled Dishwand              , Surface types       , Stainless Steel (Cooktop                                         ,0,0,1,0
+ Handled Dishwand              , Surface types       , Stainless Steel (Outdoor camping/BBQ                             ,0.145,0.079,0.066,1.84
+ Handled Dishwand              , Surface types       , Stainless Steel (Sink /Cookware                                  ,0.126,0.079,0.112,1.59
+ Handled Dishwand              , Surface types       , Suitable for use across most surface types                       ,0.127,0.074,0.083,1.73
+ Handled Dishwand              , Stain types         , Effective at removing different stuck on and oily stains         ,0.05,0.069,0.472,0.72
+ Handled Dishwand              , Stain types         , Good at removing heavy oil stains                                ,0.067,0.067,0.321,0.99
+ Handled Dishwand              , Stain types         , Good at removing light (non-oily                                 ,0,0,1,0
+ Handled Dishwand              , Stain types         , Good at removing light oil stains                                ,0.136,0.08,0.091,1.69
+ Handled Dishwand              , Stain types         , Good at removing sticky stains                                   ,0,0,1,0
+ Handled Dishwand              , Stain types         , Good at removing stubborn burnt stains                           ,0.042,0.062,0.502,0.67
+ Handled Dishwand              , Stain types         , Good at removing tea/coffee stains                               ,-0.047,0.062,0.451,-0.75
+ Handled Dishwand              , Benefit             , Antibacterial/Prevent bacterial growth                           ,-0.378,0.123,0.002,-3.08
+ Handled Dishwand              , Benefit             , Antimicrobial/Prevent mold & odor                                ,-0.196,0.1,0.051,-1.95
+ Handled Dishwand              , Benefit             , Durable/long lasting                                             ,-0.251,0.107,0.019,-2.34
+ Handled Dishwand              , Benefit             , Easy to grip                                                     ,-0.079,0.099,0.425,-0.8
+ Handled Dishwand              , Benefit             , Easy to reach and clean tight corners and grooves                ,0,0,1,0
+ Handled Dishwand              , Benefit             , Easy to rinse clean after use (food doesn't get stuck            ,-0.17,0.101,0.091,-1.69
+ Handled Dishwand              , Benefit             , Foam well with a small amount of detergent                       ,-0.23,0.102,0.025,-2.24
+ Handled Dishwand              , Benefit             , Stain resistant                                                  ,-0.256,0.105,0.015,-2.44
+ Handled Dishwand              , Benefit             , Will not scratch or damage cleaning surfaces                     ,-0.262,0.106,0.013,-2.48
+ Handled Dishwand              , Claim               , Convenient as no soap required (infused with  cleaning detergent ,-0.149,0.076,0.05,-1.96
+ Handled Dishwand              , Claim               , Create a shiny finish after use                                  ,0.258,0.114,0.024,2.26
+ Handled Dishwand              , Claim               , Eco-friendly/Good for the environment                            ,0,0,1,0
+ Handled Dishwand              , Claim               , Fun designs/ shapes to elevate your mood                         ,-0.143,0.087,0.101,-1.64
+ Handled Dishwand              , Claim               , Guarantee satisfaction after use                                 ,0.212,0.115,0.065,1.84
+ Handled Dishwand              , Claim               , Keeps your family safe                                           ,-0.127,0.089,0.154,-1.42
+ Handled Dishwand              , Claim               ," Make cleaning a breeze, saves time to do the things you love     ",0,0,1,0
+ Handled Dishwand              , Claim               , Scented (emits pleasant scent while cleaning                     ,-0.038,0.089,0.666,-0.43
+ Handled Dishwand              , Claim               , Transform cleaning into a fun experience with foamy bubble       ,0,0,1,0
+ Handled Dishwand              , Material            , 100% Recycled PET plastic                                        ,0.128,0.08,0.11,1.6
+ Handled Dishwand              , Material            , Flexible foam (texture changes with water temperature            ,0.295,0.096,0.002,3.09
+ Handled Dishwand              , Material            ," Man-made fibre (e.g., polyester                                  ",0,0,1,0
+ Handled Dishwand              , Material            , Melamine foam (magic eraser                                      ,0.182,0.082,0.027,2.21
+ Handled Dishwand              , Material            , Natural cellulose sponge                                         ,0.371,0.111,0.001,3.35
+ Handled Dishwand              , Material            , Natural coconut based fibre                                      ,0.391,0.112,0,3.49
+ Handled Dishwand              , Material            , Natural corn based fibre                                         ,0.26,0.093,0.005,2.78
+ Handled Dishwand              , Material            , Stay Fresh foam (foam that resist stains and odors               ,0.245,0.093,0.008,2.64
+ Handled Dishwand              , Price               ,                                                                  ,-0.105,0.033,0.002,-3.15
+ Handled Dishwand              , Color               , Beige/Brown                                                      ,-0.058,0.081,0.468,-0.73
+ Handled Dishwand              , Color               , Black                                                            ,0.042,0.077,0.582,0.55
+ Handled Dishwand              , Color               , Blue                                                             ,0,0,1,0
+ Handled Dishwand              , Color               , Dark Green                                                       ,0.089,0.089,0.317,1
+ Handled Dishwand              , Color               , Green                                                            ,0,0,1,0
+ Handled Dishwand              , Color               , Orange                                                           ,0.154,0.08,0.055,1.92
+ Handled Dishwand              , Color               , Pink                                                             ,0.079,0.085,0.356,0.92
+ Handled Dishwand              , Color               , Purple                                                           ,0.134,0.081,0.098,1.65
+ Handled Dishwand              , Color               , White                                                            ,0.027,0.085,0.75,0.32
+ Handled Dishwand              , Color               , Yellow                                                           ,0.108,0.081,0.18,1.34
+ Handled Dishwand              , Shape               , Flower                                                           ,0,0,1,0
+ Handled Dishwand              , Shape               , Leaf                                                             ,0,0,1,0
+ Handled Dishwand              , Shape               , Oval                                                             ,0,0,1,0
+ Handled Dishwand              , Shape               , Rectangle                                                        ,0,0,1,0
+ Handled Dishwand              , Shape               , Round                                                            ,0.188,0.099,0.057,1.9
+ Handled Dishwand              , Shape               , Smiley                                                           ,0,0,1,0
+ Handled Dishwand              , Shape               , Square                                                           ,-0.068,0.073,0.351,-0.93
+ Handled Dishwand              , Shape               , Tear drop                                                        ,0,0,1,0
+ Handled Dishwand              , Shape               , Wave                                                             ,0.191,0.083,0.021,2.31
+ Large sheet/wipe              , Brand               , Byulpyo                                                          ,-0.155,0.084,0.065,-1.84
+ Large sheet/wipe              , Brand               , Cleanwrap                                                        ,0.102,0.073,0.164,1.39
+ Large sheet/wipe              , Brand               , Daiso                                                            ,-0.04,0.075,0.589,-0.54
+ Large sheet/wipe              , Brand               , Frog                                                             ,-0.176,0.082,0.031,-2.15
+ Large sheet/wipe              , Brand               , No Brand                                                         ,0,0,1,0
+ Large sheet/wipe              , Brand               , Scotch-Brite by 3M                                               ,0.2,0.083,0.016,2.4
+ Large sheet/wipe              , Brand               , Scott (Yuhan-Kimberly                                            ,0,0,1,0
+ Large sheet/wipe              , Brand               , Spontex                                                          ,-0.177,0.087,0.042,-2.03
+ Large sheet/wipe              , Cleaning strength   , Extra tough/ extra heavy duty                                    ,0.127,0.068,0.061,1.87
+ Large sheet/wipe              , Cleaning strength   , Gentle/ delicate cleaning                                        ,0.039,0.065,0.55,0.6
+ Large sheet/wipe              , Cleaning strength   , Tough Cleaning/ Heavy duty                                       ,0.032,0.061,0.606,0.52
+ Large sheet/wipe              , Surface types       , Cast Iron (Cookware/Grills/etc                                   ,-0.033,0.075,0.657,-0.44
+ Large sheet/wipe              , Surface types       , Everyday dishware & utensils                                     ,0.178,0.093,0.057,1.91
+ Large sheet/wipe              , Surface types       , Glass (Cooktop                                                   ,0,0,1,0
+ Large sheet/wipe              , Surface types       ," Non-Stick/Ceramic (Cookware, Dishware, etc                       ",-0.08,0.077,0.298,-1.04
+ Large sheet/wipe              , Surface types       ," Plastic (Dishware, Utensils, etc                                 ",0.098,0.084,0.243,1.17
+ Large sheet/wipe              , Surface types       ," Porcelain (Dishware, premium crockery, sink, etc                 ",-0.076,0.084,0.362,-0.91
+ Large sheet/wipe              , Surface types       , Stainless Steel (Cooktop                                         ,-0.07,0.074,0.346,-0.94
+ Large sheet/wipe              , Surface types       , Stainless Steel (Outdoor camping/BBQ                             ,0,0,1,0
+ Large sheet/wipe              , Surface types       , Stainless Steel (Sink /Cookware                                  ,0.081,0.075,0.281,1.08
+ Large sheet/wipe              , Surface types       , Suitable for use across most surface types                       ,0.058,0.077,0.452,0.75
+ Large sheet/wipe              , Stain types         , Effective at removing different stuck on and oily stains         ,0.107,0.075,0.155,1.42
+ Large sheet/wipe              , Stain types         , Good at removing heavy oil stains                                ,0,0,1,0
+ Large sheet/wipe              , Stain types         , Good at removing light (non-oily                                 ,0.071,0.079,0.367,0.9
+ Large sheet/wipe              , Stain types         , Good at removing light oil stains                                ,0,0,1,0
+ Large sheet/wipe              , Stain types         , Good at removing sticky stains                                   ,-0.111,0.071,0.116,-1.57
+ Large sheet/wipe              , Stain types         , Good at removing stubborn burnt stains                           ,-0.031,0.07,0.66,-0.44
+ Large sheet/wipe              , Stain types         , Good at removing tea/coffee stains                               ,0.112,0.066,0.089,1.7
+ Large sheet/wipe              , Benefit             , Antibacterial/Prevent bacterial growth                           ,0.089,0.088,0.312,1.01
+ Large sheet/wipe              , Benefit             , Antimicrobial/Prevent mold & odor                                ,0,0,1,0
+ Large sheet/wipe              , Benefit             , Durable/long lasting                                             ,0.17,0.096,0.078,1.76
+ Large sheet/wipe              , Benefit             , Easy to grip                                                     ,0.187,0.102,0.066,1.84
+ Large sheet/wipe              , Benefit             , Easy to reach and clean tight corners and grooves                ,0.076,0.079,0.337,0.96
+ Large sheet/wipe              , Benefit             , Easy to rinse clean after use (food doesn't get stuck            ,0.059,0.077,0.445,0.76
+ Large sheet/wipe              , Benefit             , Foam well with a small amount of detergent                       ,0.199,0.103,0.053,1.93
+ Large sheet/wipe              , Benefit             , Stain resistant                                                  ,-0.019,0.079,0.812,-0.24
+ Large sheet/wipe              , Benefit             , Will not scratch or damage cleaning surfaces                     ,0.132,0.088,0.135,1.5
+ Large sheet/wipe              , Claim               , Convenient as no soap required (infused with  cleaning detergent ,0.352,0.138,0.01,2.56
+ Large sheet/wipe              , Claim               , Create a shiny finish after use                                  ,0.074,0.09,0.407,0.83
+ Large sheet/wipe              , Claim               , Eco-friendly/Good for the environment                            ,0,0,1,0
+ Large sheet/wipe              , Claim               , Fun designs/ shapes to elevate your mood                         ,0.271,0.108,0.012,2.51
+ Large sheet/wipe              , Claim               , Guarantee satisfaction after use                                 ,-0.126,0.089,0.157,-1.41
+ Large sheet/wipe              , Claim               , Keeps your family safe                                           ,0.126,0.094,0.18,1.34
+ Large sheet/wipe              , Claim               ," Make cleaning a breeze, saves time to do the things you love     ",0.12,0.108,0.264,1.12
+ Large sheet/wipe              , Claim               , Scented (emits pleasant scent while cleaning                     ,0.152,0.11,0.168,1.38
+ Large sheet/wipe              , Claim               , Transform cleaning into a fun experience with foamy bubble       ,0.139,0.098,0.154,1.43
+ Large sheet/wipe              , Material            , 100% Recycled PET plastic                                        ,0.097,0.093,0.3,1.04
+ Large sheet/wipe              , Material            , Flexible foam (texture changes with water temperature            ,-0.203,0.083,0.015,-2.44
+ Large sheet/wipe              , Material            ," Man-made fibre (e.g., polyester                                  ",0.036,0.076,0.642,0.46
+ Large sheet/wipe              , Material            , Melamine foam (magic eraser                                      ,0.063,0.082,0.443,0.77
+ Large sheet/wipe              , Material            , Natural cellulose sponge                                         ,-0.17,0.082,0.038,-2.07
+ Large sheet/wipe              , Material            , Natural coconut based fibre                                      ,0,0,1,0
+ Large sheet/wipe              , Material            , Natural corn based fibre                                         ,0,0,1,0
+ Large sheet/wipe              , Material            , Stay Fresh foam (foam that resist stains and odors               ,0,0,1,0
+ Large sheet/wipe              , Price               ,                                                                  ,-0.125,0.037,0.001,-3.35
+ Large sheet/wipe              , Color               , Beige/Brown                                                      ,-0.118,0.09,0.192,-1.31
+ Large sheet/wipe              , Color               , Black                                                            ,-0.101,0.087,0.247,-1.16
+ Large sheet/wipe              , Color               , Blue                                                             ,0,0,1,0
+ Large sheet/wipe              , Color               , Dark Green                                                       ,-0.127,0.096,0.184,-1.33
+ Large sheet/wipe              , Color               , Green                                                            ,-0.063,0.089,0.477,-0.71
+ Large sheet/wipe              , Color               , Orange                                                           ,-0.064,0.09,0.475,-0.71
+ Large sheet/wipe              , Color               , Pink                                                             ,-0.141,0.101,0.163,-1.4
+ Large sheet/wipe              , Color               , Purple                                                           ,-0.173,0.096,0.072,-1.8
+ Large sheet/wipe              , Color               , White                                                            ,0.112,0.092,0.22,1.23
+ Large sheet/wipe              , Color               , Yellow                                                           ,-0.091,0.093,0.33,-0.97
+ Large sheet/wipe              , Shape               , Flower                                                           ,0.107,0.1,0.287,1.06
+ Large sheet/wipe              , Shape               , Leaf                                                             ,0.194,0.101,0.055,1.92
+ Large sheet/wipe              , Shape               , Oval                                                             ,0.17,0.105,0.106,1.62
+ Large sheet/wipe              , Shape               , Rectangle                                                        ,0.262,0.12,0.029,2.19
+ Large sheet/wipe              , Shape               , Round                                                            ,0.129,0.103,0.211,1.25
+ Large sheet/wipe              , Shape               , Smiley                                                           ,0.157,0.099,0.114,1.58
+ Large sheet/wipe              , Shape               , Square                                                           ,0.152,0.096,0.114,1.58
+ Large sheet/wipe              , Shape               , Tear drop                                                        ,-0.085,0.094,0.366,-0.9
+ Large sheet/wipe              , Shape               , Wave                                                             ,0.191,0.103,0.064,1.86
+ Metal Ball Scourer            , Brand               , Byulpyo                                                          ,-0.589,0.528,0.265,-1.11
+ Metal Ball Scourer            , Brand               , Cleanwrap                                                        ,-1.042,0.718,0.147,-1.45
+ Metal Ball Scourer            , Brand               , Daiso                                                            ,-1.099,0.826,0.184,-1.33
+ Metal Ball Scourer            , Brand               , Frog                                                             ,0,0,1,0
+ Metal Ball Scourer            , Brand               , No Brand                                                         ,-0.45,0.429,0.294,-1.05
+ Metal Ball Scourer            , Brand               , Scotch-Brite by 3M                                               ,0.27,0.395,0.494,0.68
+ Metal Ball Scourer            , Brand               , Scott (Yuhan-Kimberly                                            ,0,0,1,0
+ Metal Ball Scourer            , Brand               , Spontex                                                          ,0,0,1,0
+ Metal Ball Scourer            , Cleaning strength   , Extra tough/ extra heavy duty                                    ,0.401,0.389,0.302,1.03
+ Metal Ball Scourer            , Cleaning strength   , Gentle/ delicate cleaning                                        ,0.33,0.404,0.414,0.82
+ Metal Ball Scourer            , Cleaning strength   , Tough Cleaning/ Heavy duty                                       ,0.151,0.326,0.644,0.46
+ Metal Ball Scourer            , Surface types       , Cast Iron (Cookware/Grills/etc                                   ,0,0,1,0
+ Metal Ball Scourer            , Surface types       , Everyday dishware & utensils                                     ,0.173,0.412,0.674,0.42
+ Metal Ball Scourer            , Surface types       , Glass (Cooktop                                                   ,0,0,1,0
+ Metal Ball Scourer            , Surface types       ," Non-Stick/Ceramic (Cookware, Dishware, etc                       ",0.37,0.389,0.342,0.95
+ Metal Ball Scourer            , Surface types       ," Plastic (Dishware, Utensils, etc                                 ",0.468,0.464,0.313,1.01
+ Metal Ball Scourer            , Surface types       ," Porcelain (Dishware, premium crockery, sink, etc                 ",0,0,1,0
+ Metal Ball Scourer            , Surface types       , Stainless Steel (Cooktop                                         ,-0.232,0.554,0.675,-0.42
+ Metal Ball Scourer            , Surface types       , Stainless Steel (Outdoor camping/BBQ                             ,0.29,0.522,0.579,0.56
+ Metal Ball Scourer            , Surface types       , Stainless Steel (Sink /Cookware                                  ,0,0,1,0
+ Metal Ball Scourer            , Surface types       , Suitable for use across most surface types                       ,0,0,1,0
+ Metal Ball Scourer            , Stain types         , Effective at removing different stuck on and oily stains         ,-0.326,0.506,0.519,-0.64
+ Metal Ball Scourer            , Stain types         , Good at removing heavy oil stains                                ,-0.747,0.66,0.257,-1.13
+ Metal Ball Scourer            , Stain types         , Good at removing light (non-oily                                 ,-0.346,0.531,0.514,-0.65
+ Metal Ball Scourer            , Stain types         , Good at removing light oil stains                                ,-0.229,0.45,0.61,-0.51
+ Metal Ball Scourer            , Stain types         , Good at removing sticky stains                                   ,-0.425,0.5,0.396,-0.85
+ Metal Ball Scourer            , Stain types         , Good at removing stubborn burnt stains                           ,-0.38,0.49,0.438,-0.78
+ Metal Ball Scourer            , Stain types         , Good at removing tea/coffee stains                               ,-0.955,0.824,0.247,-1.16
+ Metal Ball Scourer            , Benefit             , Antibacterial/Prevent bacterial growth                           ,0.336,0.425,0.43,0.79
+ Metal Ball Scourer            , Benefit             , Antimicrobial/Prevent mold & odor                                ,0,0,1,0
+ Metal Ball Scourer            , Benefit             , Durable/long lasting                                             ,-0.44,0.439,0.316,-1
+ Metal Ball Scourer            , Benefit             , Easy to grip                                                     ,0,0,1,0
+ Metal Ball Scourer            , Benefit             , Easy to reach and clean tight corners and grooves                ,0,0,1,0
+ Metal Ball Scourer            , Benefit             , Easy to rinse clean after use (food doesn't get stuck            ,0,0,1,0
+ Metal Ball Scourer            , Benefit             , Foam well with a small amount of detergent                       ,0,0,1,0
+ Metal Ball Scourer            , Benefit             , Stain resistant                                                  ,0.516,0.504,0.306,1.02
+ Metal Ball Scourer            , Benefit             , Will not scratch or damage cleaning surfaces                     ,-0.28,0.401,0.485,-0.7
+ Metal Ball Scourer            , Claim               , Convenient as no soap required (infused with  cleaning detergent ,0,0,1,0
+ Metal Ball Scourer            , Claim               , Create a shiny finish after use                                  ,0,0,1,0
+ Metal Ball Scourer            , Claim               , Eco-friendly/Good for the environment                            ,0,0,1,0
+ Metal Ball Scourer            , Claim               , Fun designs/ shapes to elevate your mood                         ,-0.335,0.457,0.463,-0.73
+ Metal Ball Scourer            , Claim               , Guarantee satisfaction after use                                 ,0,0,1,0
+ Metal Ball Scourer            , Claim               , Keeps your family safe                                           ,-0.278,0.455,0.541,-0.61
+ Metal Ball Scourer            , Claim               ," Make cleaning a breeze, saves time to do the things you love     ",0,0,1,0
+ Metal Ball Scourer            , Claim               , Scented (emits pleasant scent while cleaning                     ,-0.852,0.653,0.192,-1.31
+ Metal Ball Scourer            , Claim               , Transform cleaning into a fun experience with foamy bubble       ,0,0,1,0
+ Metal Ball Scourer            , Material            , 100% Recycled PET plastic                                        ,0,0,1,0
+ Metal Ball Scourer            , Material            , Flexible foam (texture changes with water temperature            ,0,0,1,0
+ Metal Ball Scourer            , Material            ," Man-made fibre (e.g., polyester                                  ",0,0,1,0
+ Metal Ball Scourer            , Material            , Melamine foam (magic eraser                                      ,0,0,1,0
+ Metal Ball Scourer            , Material            , Natural cellulose sponge                                         ,0,0,1,0
+ Metal Ball Scourer            , Material            , Natural coconut based fibre                                      ,0,0,1,0
+ Metal Ball Scourer            , Material            , Natural corn based fibre                                         ,0,0,1,0
+ Metal Ball Scourer            , Material            , Stay Fresh foam (foam that resist stains and odors               ,0,0,1,0
+ Metal Ball Scourer            , Price               ,                                                                  ,0.055,0.142,0.701,0.38
+ Metal Ball Scourer            , Color               , Beige/Brown                                                      ,0,0,1,0
+ Metal Ball Scourer            , Color               , Black                                                            ,0,0,1,0
+ Metal Ball Scourer            , Color               , Blue                                                             ,0,0,1,0
+ Metal Ball Scourer            , Color               , Dark Green                                                       ,0,0,1,0
+ Metal Ball Scourer            , Color               , Green                                                            ,0,0,1,0
+ Metal Ball Scourer            , Color               , Orange                                                           ,0,0,1,0
+ Metal Ball Scourer            , Color               , Pink                                                             ,0,0,1,0
+ Metal Ball Scourer            , Color               , Purple                                                           ,0,0,1,0
+ Metal Ball Scourer            , Color               , White                                                            ,0,0,1,0
+ Metal Ball Scourer            , Color               , Yellow                                                           ,0,0,1,0
+ Metal Ball Scourer            , Shape               , Flower                                                           ,0,0,1,0
+ Metal Ball Scourer            , Shape               , Leaf                                                             ,0.443,0.541,0.413,0.82
+ Metal Ball Scourer            , Shape               , Oval                                                             ,0.225,0.399,0.573,0.56
+ Metal Ball Scourer            , Shape               , Rectangle                                                        ,0,0,1,0
+ Metal Ball Scourer            , Shape               , Round                                                            ,0.386,0.489,0.429,0.79
+ Metal Ball Scourer            , Shape               , Smiley                                                           ,0.334,0.469,0.476,0.71
+ Metal Ball Scourer            , Shape               , Square                                                           ,0.164,0.38,0.666,0.43
+ Metal Ball Scourer            , Shape               , Tear drop                                                        ,0,0,1,0
+ Metal Ball Scourer            , Shape               , Wave                                                             ,0.302,0.458,0.51,0.66
+ Net Sponge                    , Brand               , Byulpyo                                                          ,-0.343,0.111,0.002,-3.1
+ Net Sponge                    , Brand               , Cleanwrap                                                        ,0,0,1,0
+ Net Sponge                    , Brand               , Daiso                                                            ,0,0,1,0
+ Net Sponge                    , Brand               , Frog                                                             ,-0.271,0.097,0.005,-2.78
+ Net Sponge                    , Brand               , No Brand                                                         ,-0.194,0.091,0.033,-2.14
+ Net Sponge                    , Brand               , Scotch-Brite by 3M                                               ,0,0,1,0
+ Net Sponge                    , Brand               , Scott (Yuhan-Kimberly                                            ,-0.068,0.073,0.351,-0.93
+ Net Sponge                    , Brand               , Spontex                                                          ,-0.103,0.085,0.226,-1.21
+ Net Sponge                    , Cleaning strength   , Extra tough/ extra heavy duty                                    ,-0.084,0.067,0.206,-1.26
+ Net Sponge                    , Cleaning strength   , Gentle/ delicate cleaning                                        ,-0.036,0.066,0.58,-0.55
+ Net Sponge                    , Cleaning strength   , Tough Cleaning/ Heavy duty                                       ,-0.137,0.073,0.06,-1.88
+ Net Sponge                    , Surface types       , Cast Iron (Cookware/Grills/etc                                   ,-0.149,0.11,0.175,-1.36
+ Net Sponge                    , Surface types       , Everyday dishware & utensils                                     ,-0.159,0.11,0.149,-1.44
+ Net Sponge                    , Surface types       , Glass (Cooktop                                                   ,-0.187,0.111,0.091,-1.69
+ Net Sponge                    , Surface types       ," Non-Stick/Ceramic (Cookware, Dishware, etc                       ",-0.112,0.107,0.295,-1.05
+ Net Sponge                    , Surface types       ," Plastic (Dishware, Utensils, etc                                 ",-0.15,0.11,0.173,-1.36
+ Net Sponge                    , Surface types       ," Porcelain (Dishware, premium crockery, sink, etc                 ",-0.09,0.106,0.4,-0.84
+ Net Sponge                    , Surface types       , Stainless Steel (Cooktop                                         ,-0.289,0.122,0.018,-2.37
+ Net Sponge                    , Surface types       , Stainless Steel (Outdoor camping/BBQ                             ,-0.184,0.11,0.095,-1.67
+ Net Sponge                    , Surface types       , Stainless Steel (Sink /Cookware                                  ,-0.388,0.131,0.003,-2.96
+ Net Sponge                    , Surface types       , Suitable for use across most surface types                       ,-0.314,0.12,0.009,-2.61
+ Net Sponge                    , Stain types         , Effective at removing different stuck on and oily stains         ,-0.043,0.077,0.574,-0.56
+ Net Sponge                    , Stain types         , Good at removing heavy oil stains                                ,-0.042,0.071,0.554,-0.59
+ Net Sponge                    , Stain types         , Good at removing light (non-oily                                 ,0,0,1,0
+ Net Sponge                    , Stain types         , Good at removing light oil stains                                ,0,0,1,0
+ Net Sponge                    , Stain types         , Good at removing sticky stains                                   ,0.151,0.087,0.084,1.73
+ Net Sponge                    , Stain types         , Good at removing stubborn burnt stains                           ,0,0,1,0
+ Net Sponge                    , Stain types         , Good at removing tea/coffee stains                               ,-0.043,0.067,0.528,-0.63
+ Net Sponge                    , Benefit             , Antibacterial/Prevent bacterial growth                           ,0,0,1,0
+ Net Sponge                    , Benefit             , Antimicrobial/Prevent mold & odor                                ,0.162,0.095,0.089,1.7
+ Net Sponge                    , Benefit             , Durable/long lasting                                             ,0.103,0.093,0.269,1.11
+ Net Sponge                    , Benefit             , Easy to grip                                                     ,0.022,0.084,0.796,0.26
+ Net Sponge                    , Benefit             , Easy to reach and clean tight corners and grooves                ,0.208,0.103,0.043,2.02
+ Net Sponge                    , Benefit             , Easy to rinse clean after use (food doesn't get stuck            ,0,0,1,0
+ Net Sponge                    , Benefit             , Foam well with a small amount of detergent                       ,0.043,0.079,0.585,0.55
+ Net Sponge                    , Benefit             , Stain resistant                                                  ,0.194,0.096,0.044,2.01
+ Net Sponge                    , Benefit             , Will not scratch or damage cleaning surfaces                     ,0.246,0.109,0.023,2.27
+ Net Sponge                    , Claim               , Convenient as no soap required (infused with  cleaning detergent ,-0.271,0.109,0.013,-2.47
+ Net Sponge                    , Claim               , Create a shiny finish after use                                  ,-0.187,0.094,0.046,-1.99
+ Net Sponge                    , Claim               , Eco-friendly/Good for the environment                            ,0.094,0.115,0.414,0.82
+ Net Sponge                    , Claim               , Fun designs/ shapes to elevate your mood                         ,-0.072,0.091,0.427,-0.79
+ Net Sponge                    , Claim               , Guarantee satisfaction after use                                 ,-0.117,0.091,0.199,-1.29
+ Net Sponge                    , Claim               , Keeps your family safe                                           ,0.108,0.123,0.379,0.88
+ Net Sponge                    , Claim               ," Make cleaning a breeze, saves time to do the things you love     ",-0.307,0.112,0.006,-2.75
+ Net Sponge                    , Claim               , Scented (emits pleasant scent while cleaning                     ,0,0,1,0
+ Net Sponge                    , Claim               , Transform cleaning into a fun experience with foamy bubble       ,-0.16,0.107,0.137,-1.49
+ Net Sponge                    , Material            , 100% Recycled PET plastic                                        ,0,0,1,0
+ Net Sponge                    , Material            , Flexible foam (texture changes with water temperature            ,0.098,0.087,0.261,1.12
+ Net Sponge                    , Material            ," Man-made fibre (e.g., polyester                                  ",0,0,1,0
+ Net Sponge                    , Material            , Melamine foam (magic eraser                                      ,-0.157,0.087,0.07,-1.81
+ Net Sponge                    , Material            , Natural cellulose sponge                                         ,0,0,1,0
+ Net Sponge                    , Material            , Natural coconut based fibre                                      ,-0.062,0.075,0.411,-0.82
+ Net Sponge                    , Material            , Natural corn based fibre                                         ,-0.075,0.081,0.352,-0.93
+ Net Sponge                    , Material            , Stay Fresh foam (foam that resist stains and odors               ,0.197,0.096,0.04,2.06
+ Net Sponge                    , Price               ,                                                                  ,-0.132,0.041,0.001,-3.25
+ Net Sponge                    , Color               , Beige/Brown                                                      ,0.093,0.105,0.372,0.89
+ Net Sponge                    , Color               , Black                                                            ,0.065,0.108,0.544,0.61
+ Net Sponge                    , Color               , Blue                                                             ,0.148,0.106,0.164,1.39
+ Net Sponge                    , Color               , Dark Green                                                       ,0.082,0.113,0.468,0.73
+ Net Sponge                    , Color               , Green                                                            ,0.163,0.108,0.13,1.52
+ Net Sponge                    , Color               , Orange                                                           ,0.043,0.106,0.689,0.4
+ Net Sponge                    , Color               , Pink                                                             ,0.038,0.11,0.731,0.34
+ Net Sponge                    , Color               , Purple                                                           ,0.163,0.108,0.132,1.51
+ Net Sponge                    , Color               , White                                                            ,0.098,0.103,0.341,0.95
+ Net Sponge                    , Color               , Yellow                                                           ,0.152,0.11,0.166,1.39
+ Net Sponge                    , Shape               , Flower                                                           ,-0.053,0.09,0.556,-0.59
+ Net Sponge                    , Shape               , Leaf                                                             ,0.153,0.096,0.111,1.59
+ Net Sponge                    , Shape               , Oval                                                             ,0.159,0.098,0.103,1.63
+ Net Sponge                    , Shape               , Rectangle                                                        ,0.166,0.095,0.081,1.74
+ Net Sponge                    , Shape               , Round                                                            ,0,0,1,0
+ Net Sponge                    , Shape               , Smiley                                                           ,0.13,0.088,0.141,1.47
+ Net Sponge                    , Shape               , Square                                                           ,0.192,0.102,0.06,1.88
+ Net Sponge                    , Shape               , Tear drop                                                        ,0,0,1,0
+ Net Sponge                    , Shape               , Wave                                                             ,0.172,0.093,0.064,1.85
+ Net/Mesh cloth                , Brand               , Byulpyo                                                          ,0.092,0.095,0.332,0.97
+ Net/Mesh cloth                , Brand               , Cleanwrap                                                        ,0.274,0.108,0.011,2.53
+ Net/Mesh cloth                , Brand               , Daiso                                                            ,-0.14,0.104,0.179,-1.34
+ Net/Mesh cloth                , Brand               , Frog                                                             ,0.166,0.1,0.098,1.65
+ Net/Mesh cloth                , Brand               , No Brand                                                         ,0,0,1,0
+ Net/Mesh cloth                , Brand               , Scotch-Brite by 3M                                               ,0.384,0.121,0.001,3.18
+ Net/Mesh cloth                , Brand               , Scott (Yuhan-Kimberly                                            ,0.166,0.091,0.068,1.82
+ Net/Mesh cloth                , Brand               , Spontex                                                          ,0.054,0.092,0.559,0.58
+ Net/Mesh cloth                , Cleaning strength   , Extra tough/ extra heavy duty                                    ,0.026,0.074,0.724,0.35
+ Net/Mesh cloth                , Cleaning strength   , Gentle/ delicate cleaning                                        ,-0.038,0.068,0.576,-0.56
+ Net/Mesh cloth                , Cleaning strength   , Tough Cleaning/ Heavy duty                                       ,-0.036,0.07,0.607,-0.51
+ Net/Mesh cloth                , Surface types       , Cast Iron (Cookware/Grills/etc                                   ,-0.057,0.084,0.498,-0.68
+ Net/Mesh cloth                , Surface types       , Everyday dishware & utensils                                     ,0.15,0.093,0.105,1.62
+ Net/Mesh cloth                , Surface types       , Glass (Cooktop                                                   ,0.082,0.086,0.345,0.94
+ Net/Mesh cloth                , Surface types       ," Non-Stick/Ceramic (Cookware, Dishware, etc                       ",0,0,1,0
+ Net/Mesh cloth                , Surface types       ," Plastic (Dishware, Utensils, etc                                 ",0,0,1,0
+ Net/Mesh cloth                , Surface types       ," Porcelain (Dishware, premium crockery, sink, etc                 ",-0.056,0.08,0.483,-0.7
+ Net/Mesh cloth                , Surface types       , Stainless Steel (Cooktop                                         ,0,0,1,0
+ Net/Mesh cloth                , Surface types       , Stainless Steel (Outdoor camping/BBQ                             ,0,0,1,0
+ Net/Mesh cloth                , Surface types       , Stainless Steel (Sink /Cookware                                  ,0,0,1,0
+ Net/Mesh cloth                , Surface types       , Suitable for use across most surface types                       ,0.152,0.097,0.118,1.56
+ Net/Mesh cloth                , Stain types         , Effective at removing different stuck on and oily stains         ,-0.094,0.101,0.354,-0.93
+ Net/Mesh cloth                , Stain types         , Good at removing heavy oil stains                                ,-0.101,0.099,0.31,-1.02
+ Net/Mesh cloth                , Stain types         , Good at removing light (non-oily                                 ,-0.143,0.098,0.147,-1.45
+ Net/Mesh cloth                , Stain types         , Good at removing light oil stains                                ,-0.1,0.097,0.302,-1.03
+ Net/Mesh cloth                , Stain types         , Good at removing sticky stains                                   ,-0.155,0.106,0.141,-1.47
+ Net/Mesh cloth                , Stain types         , Good at removing stubborn burnt stains                           ,-0.262,0.109,0.016,-2.42
+ Net/Mesh cloth                , Stain types         , Good at removing tea/coffee stains                               ,-0.161,0.102,0.115,-1.58
+ Net/Mesh cloth                , Benefit             , Antibacterial/Prevent bacterial growth                           ,0,0,1,0
+ Net/Mesh cloth                , Benefit             , Antimicrobial/Prevent mold & odor                                ,0,0,1,0
+ Net/Mesh cloth                , Benefit             , Durable/long lasting                                             ,0.082,0.092,0.372,0.89
+ Net/Mesh cloth                , Benefit             , Easy to grip                                                     ,0.176,0.103,0.087,1.71
+ Net/Mesh cloth                , Benefit             , Easy to reach and clean tight corners and grooves                ,0,0,1,0
+ Net/Mesh cloth                , Benefit             , Easy to rinse clean after use (food doesn't get stuck            ,0.202,0.101,0.046,1.99
+ Net/Mesh cloth                , Benefit             , Foam well with a small amount of detergent                       ,0,0,1,0
+ Net/Mesh cloth                , Benefit             , Stain resistant                                                  ,-0.09,0.082,0.275,-1.09
+ Net/Mesh cloth                , Benefit             , Will not scratch or damage cleaning surfaces                     ,0,0,1,0
+ Net/Mesh cloth                , Claim               , Convenient as no soap required (infused with  cleaning detergent ,0.206,0.12,0.087,1.71
+ Net/Mesh cloth                , Claim               , Create a shiny finish after use                                  ,0.146,0.1,0.142,1.47
+ Net/Mesh cloth                , Claim               , Eco-friendly/Good for the environment                            ,-0.039,0.097,0.689,-0.4
+ Net/Mesh cloth                , Claim               , Fun designs/ shapes to elevate your mood                         ,0,0,1,0
+ Net/Mesh cloth                , Claim               , Guarantee satisfaction after use                                 ,0,0,1,0
+ Net/Mesh cloth                , Claim               , Keeps your family safe                                           ,0.102,0.091,0.263,1.12
+ Net/Mesh cloth                , Claim               ," Make cleaning a breeze, saves time to do the things you love     ",0.216,0.129,0.093,1.68
+ Net/Mesh cloth                , Claim               , Scented (emits pleasant scent while cleaning                     ,0.085,0.098,0.386,0.87
+ Net/Mesh cloth                , Claim               , Transform cleaning into a fun experience with foamy bubble       ,0.069,0.099,0.488,0.69
+ Net/Mesh cloth                , Material            , 100% Recycled PET plastic                                        ,0.229,0.107,0.032,2.14
+ Net/Mesh cloth                , Material            , Flexible foam (texture changes with water temperature            ,0.13,0.106,0.218,1.23
+ Net/Mesh cloth                , Material            ," Man-made fibre (e.g., polyester                                  ",0.201,0.104,0.053,1.94
+ Net/Mesh cloth                , Material            , Melamine foam (magic eraser                                      ,0.351,0.125,0.005,2.8
+ Net/Mesh cloth                , Material            , Natural cellulose sponge                                         ,0.197,0.103,0.055,1.92
+ Net/Mesh cloth                , Material            , Natural coconut based fibre                                      ,0.316,0.118,0.007,2.68
+ Net/Mesh cloth                , Material            , Natural corn based fibre                                         ,0.333,0.118,0.005,2.83
+ Net/Mesh cloth                , Material            , Stay Fresh foam (foam that resist stains and odors               ,0,0,1,0
+ Net/Mesh cloth                , Price               ,                                                                  ,-0.157,0.047,0.001,-3.36
+ Net/Mesh cloth                , Color               , Beige/Brown                                                      ,-0.195,0.121,0.106,-1.62
+ Net/Mesh cloth                , Color               , Black                                                            ,-0.348,0.134,0.009,-2.61
+ Net/Mesh cloth                , Color               , Blue                                                             ,-0.277,0.139,0.047,-1.99
+ Net/Mesh cloth                , Color               , Dark Green                                                       ,-0.327,0.138,0.018,-2.37
+ Net/Mesh cloth                , Color               , Green                                                            ,-0.243,0.127,0.055,-1.92
+ Net/Mesh cloth                , Color               , Orange                                                           ,-0.269,0.128,0.035,-2.11
+ Net/Mesh cloth                , Color               , Pink                                                             ,-0.085,0.116,0.463,-0.73
+ Net/Mesh cloth                , Color               , Purple                                                           ,-0.083,0.116,0.478,-0.71
+ Net/Mesh cloth                , Color               , White                                                            ,-0.173,0.115,0.133,-1.5
+ Net/Mesh cloth                , Color               , Yellow                                                           ,-0.213,0.121,0.078,-1.76
+ Net/Mesh cloth                , Shape               , Flower                                                           ,0.058,0.115,0.612,0.51
+ Net/Mesh cloth                , Shape               , Leaf                                                             ,0.176,0.125,0.158,1.41
+ Net/Mesh cloth                , Shape               , Oval                                                             ,0.165,0.112,0.139,1.48
+ Net/Mesh cloth                , Shape               , Rectangle                                                        ,0.174,0.127,0.17,1.37
+ Net/Mesh cloth                , Shape               , Round                                                            ,0.023,0.109,0.836,0.21
+ Net/Mesh cloth                , Shape               , Smiley                                                           ,0.096,0.113,0.394,0.85
+ Net/Mesh cloth                , Shape               , Square                                                           ,0.283,0.123,0.022,2.3
+ Net/Mesh cloth                , Shape               , Tear drop                                                        ,0.046,0.104,0.657,0.44
+ Net/Mesh cloth                , Shape               , Wave                                                             ,0.264,0.13,0.043,2.03
+ Scrub Pad                     , Brand               , Byulpyo                                                          ,0,0,1,0
+ Scrub Pad                     , Brand               , Cleanwrap                                                        ,0.078,0.088,0.374,0.89
+ Scrub Pad                     , Brand               , Daiso                                                            ,0,0,1,0
+ Scrub Pad                     , Brand               , Frog                                                             ,-0.127,0.091,0.166,-1.39
+ Scrub Pad                     , Brand               , No Brand                                                         ,0,0,1,0
+ Scrub Pad                     , Brand               , Scotch-Brite by 3M                                               ,0.351,0.12,0.003,2.93
+ Scrub Pad                     , Brand               , Scott (Yuhan-Kimberly                                            ,-0.07,0.087,0.419,-0.81
+ Scrub Pad                     , Brand               , Spontex                                                          ,0,0,1,0
+ Scrub Pad                     , Cleaning strength   , Extra tough/ extra heavy duty                                    ,0.094,0.073,0.203,1.27
+ Scrub Pad                     , Cleaning strength   , Gentle/ delicate cleaning                                        ,0.153,0.077,0.045,2
+ Scrub Pad                     , Cleaning strength   , Tough Cleaning/ Heavy duty                                       ,0.16,0.078,0.039,2.06
+ Scrub Pad                     , Surface types       , Cast Iron (Cookware/Grills/etc                                   ,0.068,0.093,0.464,0.73
+ Scrub Pad                     , Surface types       , Everyday dishware & utensils                                     ,0,0,1,0
+ Scrub Pad                     , Surface types       , Glass (Cooktop                                                   ,0.035,0.091,0.7,0.39
+ Scrub Pad                     , Surface types       ," Non-Stick/Ceramic (Cookware, Dishware, etc                       ",-0.095,0.087,0.274,-1.09
+ Scrub Pad                     , Surface types       ," Plastic (Dishware, Utensils, etc                                 ",0.187,0.099,0.058,1.89
+ Scrub Pad                     , Surface types       ," Porcelain (Dishware, premium crockery, sink, etc                 ",-0.065,0.089,0.466,-0.73
+ Scrub Pad                     , Surface types       , Stainless Steel (Cooktop                                         ,0,0,1,0
+ Scrub Pad                     , Surface types       , Stainless Steel (Outdoor camping/BBQ                             ,-0.055,0.082,0.5,-0.67
+ Scrub Pad                     , Surface types       , Stainless Steel (Sink /Cookware                                  ,0,0,1,0
+ Scrub Pad                     , Surface types       , Suitable for use across most surface types                       ,0,0,1,0
+ Scrub Pad                     , Stain types         , Effective at removing different stuck on and oily stains         ,-0.138,0.091,0.13,-1.51
+ Scrub Pad                     , Stain types         , Good at removing heavy oil stains                                ,-0.063,0.089,0.479,-0.71
+ Scrub Pad                     , Stain types         , Good at removing light (non-oily                                 ,0,0,1,0
+ Scrub Pad                     , Stain types         , Good at removing light oil stains                                ,-0.094,0.091,0.302,-1.03
+ Scrub Pad                     , Stain types         , Good at removing sticky stains                                   ,-0.088,0.09,0.324,-0.99
+ Scrub Pad                     , Stain types         , Good at removing stubborn burnt stains                           ,-0.111,0.088,0.208,-1.26
+ Scrub Pad                     , Stain types         , Good at removing tea/coffee stains                               ,-0.091,0.094,0.329,-0.98
+ Scrub Pad                     , Benefit             , Antibacterial/Prevent bacterial growth                           ,0.261,0.115,0.023,2.27
+ Scrub Pad                     , Benefit             , Antimicrobial/Prevent mold & odor                                ,-0.138,0.1,0.166,-1.39
+ Scrub Pad                     , Benefit             , Durable/long lasting                                             ,0.033,0.105,0.753,0.32
+ Scrub Pad                     , Benefit             , Easy to grip                                                     ,0.039,0.089,0.662,0.44
+ Scrub Pad                     , Benefit             , Easy to reach and clean tight corners and grooves                ,0,0,1,0
+ Scrub Pad                     , Benefit             , Easy to rinse clean after use (food doesn't get stuck            ,0,0,1,0
+ Scrub Pad                     , Benefit             , Foam well with a small amount of detergent                       ,0.242,0.113,0.033,2.14
+ Scrub Pad                     , Benefit             , Stain resistant                                                  ,0,0,1,0
+ Scrub Pad                     , Benefit             , Will not scratch or damage cleaning surfaces                     ,0.178,0.109,0.104,1.63
+ Scrub Pad                     , Claim               , Convenient as no soap required (infused with  cleaning detergent ,0.327,0.148,0.028,2.2
+ Scrub Pad                     , Claim               , Create a shiny finish after use                                  ,0,0,1,0
+ Scrub Pad                     , Claim               , Eco-friendly/Good for the environment                            ,0.022,0.105,0.835,0.21
+ Scrub Pad                     , Claim               , Fun designs/ shapes to elevate your mood                         ,0.147,0.115,0.202,1.28
+ Scrub Pad                     , Claim               , Guarantee satisfaction after use                                 ,-0.091,0.101,0.369,-0.9
+ Scrub Pad                     , Claim               , Keeps your family safe                                           ,0.146,0.115,0.206,1.26
+ Scrub Pad                     , Claim               ," Make cleaning a breeze, saves time to do the things you love     ",0.097,0.107,0.362,0.91
+ Scrub Pad                     , Claim               , Scented (emits pleasant scent while cleaning                     ,0.374,0.152,0.014,2.46
+ Scrub Pad                     , Claim               , Transform cleaning into a fun experience with foamy bubble       ,0.097,0.106,0.36,0.91
+ Scrub Pad                     , Material            , 100% Recycled PET plastic                                        ,0.121,0.104,0.245,1.16
+ Scrub Pad                     , Material            , Flexible foam (texture changes with water temperature            ,-0.137,0.091,0.132,-1.51
+ Scrub Pad                     , Material            ," Man-made fibre (e.g., polyester                                  ",0.169,0.098,0.087,1.71
+ Scrub Pad                     , Material            , Melamine foam (magic eraser                                      ,0.126,0.086,0.142,1.47
+ Scrub Pad                     , Material            , Natural cellulose sponge                                         ,0,0,1,0
+ Scrub Pad                     , Material            , Natural coconut based fibre                                      ,0,0,1,0
+ Scrub Pad                     , Material            , Natural corn based fibre                                         ,0.078,0.088,0.377,0.88
+ Scrub Pad                     , Material            , Stay Fresh foam (foam that resist stains and odors               ,0,0,1,0
+ Scrub Pad                     , Price               ,                                                                  ,-0.078,0.034,0.023,-2.28
+ Scrub Pad                     , Color               , Beige/Brown                                                      ,-0.265,0.112,0.018,-2.36
+ Scrub Pad                     , Color               , Black                                                            ,0.084,0.1,0.403,0.84
+ Scrub Pad                     , Color               , Blue                                                             ,-0.06,0.107,0.577,-0.56
+ Scrub Pad                     , Color               , Dark Green                                                       ,-0.132,0.1,0.187,-1.32
+ Scrub Pad                     , Color               , Green                                                            ,-0.115,0.099,0.245,-1.16
+ Scrub Pad                     , Color               , Orange                                                           ,-0.173,0.097,0.075,-1.78
+ Scrub Pad                     , Color               , Pink                                                             ,0,0,1,0
+ Scrub Pad                     , Color               , Purple                                                           ,-0.293,0.116,0.012,-2.52
+ Scrub Pad                     , Color               , White                                                            ,0.061,0.093,0.511,0.66
+ Scrub Pad                     , Color               , Yellow                                                           ,0,0,1,0
+ Scrub Pad                     , Shape               , Flower                                                           ,0.328,0.131,0.012,2.51
+ Scrub Pad                     , Shape               , Leaf                                                             ,0.208,0.103,0.043,2.02
+ Scrub Pad                     , Shape               , Oval                                                             ,0.247,0.112,0.027,2.21
+ Scrub Pad                     , Shape               , Rectangle                                                        ,0.28,0.112,0.012,2.5
+ Scrub Pad                     , Shape               , Round                                                            ,0,0,1,0
+ Scrub Pad                     , Shape               , Smiley                                                           ,0.12,0.096,0.214,1.24
+ Scrub Pad                     , Shape               , Square                                                           ,0.104,0.089,0.242,1.17
+ Scrub Pad                     , Shape               , Tear drop                                                        ,0,0,1,0
+ Scrub Pad                     , Shape               , Wave                                                             ,0.108,0.091,0.237,1.18
+ Scrub Sponge                  , Brand               , Byulpyo                                                          ,-0.366,0.104,0,-3.52
+ Scrub Sponge                  , Brand               , Cleanwrap                                                        ,-0.176,0.083,0.035,-2.11
+ Scrub Sponge                  , Brand               , Daiso                                                            ,-0.061,0.078,0.435,-0.78
+ Scrub Sponge                  , Brand               , Frog                                                             ,-0.174,0.081,0.031,-2.15
+ Scrub Sponge                  , Brand               , No Brand                                                         ,-0.318,0.099,0.001,-3.23
+ Scrub Sponge                  , Brand               , Scotch-Brite by 3M                                               ,0.183,0.082,0.026,2.23
+ Scrub Sponge                  , Brand               , Scott (Yuhan-Kimberly                                            ,-0.064,0.079,0.416,-0.81
+ Scrub Sponge                  , Brand               , Spontex                                                          ,0,0,1,0
+ Scrub Sponge                  , Cleaning strength   , Extra tough/ extra heavy duty                                    ,0,0,1,0
+ Scrub Sponge                  , Cleaning strength   , Gentle/ delicate cleaning                                        ,-0.045,0.052,0.387,-0.87
+ Scrub Sponge                  , Cleaning strength   , Tough Cleaning/ Heavy duty                                       ,0,0,1,0
+ Scrub Sponge                  , Surface types       , Cast Iron (Cookware/Grills/etc                                   ,-0.057,0.075,0.446,-0.76
+ Scrub Sponge                  , Surface types       , Everyday dishware & utensils                                     ,-0.039,0.069,0.57,-0.57
+ Scrub Sponge                  , Surface types       , Glass (Cooktop                                                   ,0.114,0.076,0.135,1.5
+ Scrub Sponge                  , Surface types       ," Non-Stick/Ceramic (Cookware, Dishware, etc                       ",-0.058,0.073,0.43,-0.79
+ Scrub Sponge                  , Surface types       ," Plastic (Dishware, Utensils, etc                                 ",0,0,1,0
+ Scrub Sponge                  , Surface types       ," Porcelain (Dishware, premium crockery, sink, etc                 ",0,0,1,0
+ Scrub Sponge                  , Surface types       , Stainless Steel (Cooktop                                         ,0,0,1,0
+ Scrub Sponge                  , Surface types       , Stainless Steel (Outdoor camping/BBQ                             ,-0.128,0.078,0.099,-1.65
+ Scrub Sponge                  , Surface types       , Stainless Steel (Sink /Cookware                                  ,-0.183,0.076,0.016,-2.4
+ Scrub Sponge                  , Surface types       , Suitable for use across most surface types                       ,0,0,1,0
+ Scrub Sponge                  , Stain types         , Effective at removing different stuck on and oily stains         ,-0.046,0.061,0.451,-0.75
+ Scrub Sponge                  , Stain types         , Good at removing heavy oil stains                                ,0,0,1,0
+ Scrub Sponge                  , Stain types         , Good at removing light (non-oily                                 ,0,0,1,0
+ Scrub Sponge                  , Stain types         , Good at removing light oil stains                                ,-0.09,0.067,0.179,-1.34
+ Scrub Sponge                  , Stain types         , Good at removing sticky stains                                   ,0,0,1,0
+ Scrub Sponge                  , Stain types         , Good at removing stubborn burnt stains                           ,0.056,0.078,0.475,0.71
+ Scrub Sponge                  , Stain types         , Good at removing tea/coffee stains                               ,-0.034,0.062,0.582,-0.55
+ Scrub Sponge                  , Benefit             , Antibacterial/Prevent bacterial growth                           ,0.091,0.083,0.277,1.09
+ Scrub Sponge                  , Benefit             , Antimicrobial/Prevent mold & odor                                ,0.246,0.106,0.02,2.33
+ Scrub Sponge                  , Benefit             , Durable/long lasting                                             ,0.235,0.108,0.03,2.16
+ Scrub Sponge                  , Benefit             , Easy to grip                                                     ,0.109,0.079,0.167,1.38
+ Scrub Sponge                  , Benefit             , Easy to reach and clean tight corners and grooves                ,0.139,0.079,0.077,1.77
+ Scrub Sponge                  , Benefit             , Easy to rinse clean after use (food doesn't get stuck            ,0.032,0.078,0.684,0.41
+ Scrub Sponge                  , Benefit             , Foam well with a small amount of detergent                       ,0,0,1,0
+ Scrub Sponge                  , Benefit             , Stain resistant                                                  ,0.073,0.089,0.411,0.82
+ Scrub Sponge                  , Benefit             , Will not scratch or damage cleaning surfaces                     ,0.278,0.103,0.007,2.7
+ Scrub Sponge                  , Claim               , Convenient as no soap required (infused with  cleaning detergent ,-0.054,0.075,0.474,-0.72
+ Scrub Sponge                  , Claim               , Create a shiny finish after use                                  ,-0.04,0.086,0.645,-0.46
+ Scrub Sponge                  , Claim               , Eco-friendly/Good for the environment                            ,0.137,0.079,0.081,1.74
+ Scrub Sponge                  , Claim               , Fun designs/ shapes to elevate your mood                         ,0.203,0.116,0.08,1.75
+ Scrub Sponge                  , Claim               , Guarantee satisfaction after use                                 ,0,0,1,0
+ Scrub Sponge                  , Claim               , Keeps your family safe                                           ,0.233,0.113,0.039,2.06
+ Scrub Sponge                  , Claim               ," Make cleaning a breeze, saves time to do the things you love     ",0.003,0.08,0.972,0.03
+ Scrub Sponge                  , Claim               , Scented (emits pleasant scent while cleaning                     ,0,0,1,0
+ Scrub Sponge                  , Claim               , Transform cleaning into a fun experience with foamy bubble       ,-0.15,0.078,0.057,-1.91
+ Scrub Sponge                  , Material            , 100% Recycled PET plastic                                        ,-0.051,0.091,0.575,-0.56
+ Scrub Sponge                  , Material            , Flexible foam (texture changes with water temperature            ,-0.183,0.087,0.036,-2.1
+ Scrub Sponge                  , Material            ," Man-made fibre (e.g., polyester                                  ",0,0,1,0
+ Scrub Sponge                  , Material            , Melamine foam (magic eraser                                      ,-0.155,0.09,0.087,-1.71
+ Scrub Sponge                  , Material            , Natural cellulose sponge                                         ,-0.136,0.091,0.135,-1.5
+ Scrub Sponge                  , Material            , Natural coconut based fibre                                      ,-0.282,0.099,0.004,-2.85
+ Scrub Sponge                  , Material            , Natural corn based fibre                                         ,-0.202,0.097,0.037,-2.09
+ Scrub Sponge                  , Material            , Stay Fresh foam (foam that resist stains and odors               ,-0.027,0.084,0.75,-0.32
+ Scrub Sponge                  , Price               ,                                                                  ,-0.101,0.03,0.001,-3.36
+ Scrub Sponge                  , Color               , Beige/Brown                                                      ,0,0,1,0
+ Scrub Sponge                  , Color               , Black                                                            ,-0.066,0.079,0.403,-0.84
+ Scrub Sponge                  , Color               , Blue                                                             ,-0.091,0.081,0.258,-1.13
+ Scrub Sponge                  , Color               , Dark Green                                                       ,0,0,1,0
+ Scrub Sponge                  , Color               , Green                                                            ,0,0,1,0
+ Scrub Sponge                  , Color               , Orange                                                           ,0.08,0.075,0.284,1.07
+ Scrub Sponge                  , Color               , Pink                                                             ,-0.054,0.082,0.511,-0.66
+ Scrub Sponge                  , Color               , Purple                                                           ,0,0,1,0
+ Scrub Sponge                  , Color               , White                                                            ,-0.096,0.075,0.2,-1.28
+ Scrub Sponge                  , Color               , Yellow                                                           ,0.155,0.08,0.051,1.95
+ Scrub Sponge                  , Shape               , Flower                                                           ,0,0,1,0
+ Scrub Sponge                  , Shape               , Leaf                                                             ,0,0,1,0
+ Scrub Sponge                  , Shape               , Oval                                                             ,0.185,0.102,0.068,1.82
+ Scrub Sponge                  , Shape               , Rectangle                                                        ,-0.13,0.082,0.111,-1.59
+ Scrub Sponge                  , Shape               , Round                                                            ,0.039,0.072,0.591,0.54
+ Scrub Sponge                  , Shape               , Smiley                                                           ,0.055,0.077,0.473,0.72
+ Scrub Sponge                  , Shape               , Square                                                           ,0.052,0.074,0.479,0.71
+ Scrub Sponge                  , Shape               , Tear drop                                                        ,0,0,1,0
+ Scrub Sponge                  , Shape               , Wave                                                             ,0.083,0.073,0.254,1.14
+ Sponge                        , Brand               , Byulpyo                                                          ,-0.102,0.088,0.245,-1.16
+ Sponge                        , Brand               , Cleanwrap                                                        ,0,0,1,0
+ Sponge                        , Brand               , Daiso                                                            ,0.071,0.086,0.408,0.83
+ Sponge                        , Brand               , Frog                                                             ,-0.185,0.096,0.054,-1.93
+ Sponge                        , Brand               , No Brand                                                         ,0,0,1,0
+ Sponge                        , Brand               , Scotch-Brite by 3M                                               ,0.184,0.094,0.05,1.96
+ Sponge                        , Brand               , Scott (Yuhan-Kimberly                                            ,0,0,1,0
+ Sponge                        , Brand               , Spontex                                                          ,0,0,1,0
+ Sponge                        , Cleaning strength   , Extra tough/ extra heavy duty                                    ,-0.087,0.066,0.189,-1.31
+ Sponge                        , Cleaning strength   , Gentle/ delicate cleaning                                        ,0,0,1,0
+ Sponge                        , Cleaning strength   , Tough Cleaning/ Heavy duty                                       ,-0.037,0.063,0.552,-0.59
+ Sponge                        , Surface types       , Cast Iron (Cookware/Grills/etc                                   ,0,0,1,0
+ Sponge                        , Surface types       , Everyday dishware & utensils                                     ,0,0,1,0
+ Sponge                        , Surface types       , Glass (Cooktop                                                   ,0,0,1,0
+ Sponge                        , Surface types       ," Non-Stick/Ceramic (Cookware, Dishware, etc                       ",0.152,0.092,0.098,1.65
+ Sponge                        , Surface types       ," Plastic (Dishware, Utensils, etc                                 ",0.056,0.091,0.538,0.62
+ Sponge                        , Surface types       ," Porcelain (Dishware, premium crockery, sink, etc                 ",0.07,0.099,0.48,0.71
+ Sponge                        , Surface types       , Stainless Steel (Cooktop                                         ,0,0,1,0
+ Sponge                        , Surface types       , Stainless Steel (Outdoor camping/BBQ                             ,0,0,1,0
+ Sponge                        , Surface types       , Stainless Steel (Sink /Cookware                                  ,0,0,1,0
+ Sponge                        , Surface types       , Suitable for use across most surface types                       ,0,0,1,0
+ Sponge                        , Stain types         , Effective at removing different stuck on and oily stains         ,0,0,1,0
+ Sponge                        , Stain types         , Good at removing heavy oil stains                                ,0.1,0.096,0.294,1.05
+ Sponge                        , Stain types         , Good at removing light (non-oily                                 ,-0.144,0.084,0.086,-1.72
+ Sponge                        , Stain types         , Good at removing light oil stains                                ,0,0,1,0
+ Sponge                        , Stain types         , Good at removing sticky stains                                   ,-0.074,0.075,0.324,-0.99
+ Sponge                        , Stain types         , Good at removing stubborn burnt stains                           ,-0.075,0.092,0.414,-0.82
+ Sponge                        , Stain types         , Good at removing tea/coffee stains                               ,-0.167,0.084,0.047,-1.99
+ Sponge                        , Benefit             , Antibacterial/Prevent bacterial growth                           ,-0.201,0.101,0.046,-2
+ Sponge                        , Benefit             , Antimicrobial/Prevent mold & odor                                ,0,0,1,0
+ Sponge                        , Benefit             , Durable/long lasting                                             ,-0.196,0.097,0.044,-2.02
+ Sponge                        , Benefit             , Easy to grip                                                     ,-0.261,0.111,0.019,-2.35
+ Sponge                        , Benefit             , Easy to reach and clean tight corners and grooves                ,0,0,1,0
+ Sponge                        , Benefit             , Easy to rinse clean after use (food doesn't get stuck            ,-0.09,0.091,0.325,-0.98
+ Sponge                        , Benefit             , Foam well with a small amount of detergent                       ,-0.152,0.101,0.133,-1.5
+ Sponge                        , Benefit             , Stain resistant                                                  ,0,0,1,0
+ Sponge                        , Benefit             , Will not scratch or damage cleaning surfaces                     ,0,0,1,0
+ Sponge                        , Claim               , Convenient as no soap required (infused with  cleaning detergent ,-0.355,0.156,0.022,-2.29
+ Sponge                        , Claim               , Create a shiny finish after use                                  ,-0.279,0.15,0.062,-1.87
+ Sponge                        , Claim               , Eco-friendly/Good for the environment                            ,-0.055,0.134,0.679,-0.41
+ Sponge                        , Claim               , Fun designs/ shapes to elevate your mood                         ,-0.134,0.138,0.329,-0.98
+ Sponge                        , Claim               , Guarantee satisfaction after use                                 ,-0.095,0.136,0.485,-0.7
+ Sponge                        , Claim               , Keeps your family safe                                           ,-0.178,0.132,0.178,-1.35
+ Sponge                        , Claim               ," Make cleaning a breeze, saves time to do the things you love     ",-0.24,0.149,0.107,-1.61
+ Sponge                        , Claim               , Scented (emits pleasant scent while cleaning                     ,-0.326,0.151,0.031,-2.16
+ Sponge                        , Claim               , Transform cleaning into a fun experience with foamy bubble       ,-0.279,0.145,0.054,-1.93
+ Sponge                        , Material            , 100% Recycled PET plastic                                        ,0,0,1,0
+ Sponge                        , Material            , Flexible foam (texture changes with water temperature            ,0.154,0.103,0.133,1.5
+ Sponge                        , Material            ," Man-made fibre (e.g., polyester                                  ",0.096,0.085,0.255,1.14
+ Sponge                        , Material            , Melamine foam (magic eraser                                      ,-0.089,0.086,0.303,-1.03
+ Sponge                        , Material            , Natural cellulose sponge                                         ,0.154,0.099,0.12,1.55
+ Sponge                        , Material            , Natural coconut based fibre                                      ,0,0,1,0
+ Sponge                        , Material            , Natural corn based fibre                                         ,0,0,1,0
+ Sponge                        , Material            , Stay Fresh foam (foam that resist stains and odors               ,0.2,0.1,0.046,2
+ Sponge                        , Price               ,                                                                  ,-0.111,0.04,0.006,-2.76
+ Sponge                        , Color               , Beige/Brown                                                      ,0,0,1,0
+ Sponge                        , Color               , Black                                                            ,0.095,0.094,0.313,1.01
+ Sponge                        , Color               , Blue                                                             ,0,0,1,0
+ Sponge                        , Color               , Dark Green                                                       ,-0.069,0.098,0.482,-0.7
+ Sponge                        , Color               , Green                                                            ,0.05,0.089,0.573,0.56
+ Sponge                        , Color               , Orange                                                           ,0,0,1,0
+ Sponge                        , Color               , Pink                                                             ,0,0,1,0
+ Sponge                        , Color               , Purple                                                           ,0.085,0.085,0.316,1
+ Sponge                        , Color               , White                                                            ,-0.041,0.094,0.664,-0.43
+ Sponge                        , Color               , Yellow                                                           ,0,0,1,0
+ Sponge                        , Shape               , Flower                                                           ,-0.209,0.116,0.071,-1.81
+ Sponge                        , Shape               , Leaf                                                             ,0,0,1,0
+ Sponge                        , Shape               , Oval                                                             ,-0.053,0.111,0.634,-0.48
+ Sponge                        , Shape               , Rectangle                                                        ,-0.159,0.116,0.172,-1.37
+ Sponge                        , Shape               , Round                                                            ,-0.075,0.114,0.51,-0.66
+ Sponge                        , Shape               , Smiley                                                           ,-0.247,0.116,0.033,-2.13
+ Sponge                        , Shape               , Square                                                           ,-0.079,0.112,0.483,-0.7
+ Sponge                        , Shape               , Tear drop                                                        ,-0.278,0.122,0.023,-2.28
+ Sponge                        , Shape               , Wave                                                             ,-0.167,0.104,0.108,-1.61
+ Acrylic scourer               , Gender              , Male                                                             ,-0.181,0.057,0.002,-3.17
+ Acrylic scourer               , Income              ," 6,000,000 KRW – 6,999,999 KRW                                    ",-0.033,0.096,0.732,-0.34
+ Acrylic scourer               , Income              ," 4,000,000 KRW – 4,999,999 KRW                                    ",0.024,0.093,0.792,0.26
+ Acrylic scourer               , Income              ," 7,000,000 KRW – 7,999,999 KRW                                    ",0.021,0.096,0.83,0.22
+ Acrylic scourer               , Income              ," 8,000,000 KRW – 8,999,999 KRW                                    ",-0.149,0.096,0.122,-1.55
+ Acrylic scourer               , Income              ," 5,000,000 KRW – 5,999,999 KRW                                    ",-0.12,0.086,0.161,-1.4
+ Acrylic scourer               , Income              ," 2,000,000 KRW – 2,999,999 KRW                                    ",0.029,0.079,0.716,0.36
+ Acrylic scourer               , Income              ," 9,000,000 KRW – 9,999,999 KRW                                    ",-0.028,0.112,0.8,-0.25
+ Acrylic scourer               , Income              ," 10,000,000 KRW and above                                         ",-0.131,0.108,0.227,-1.21
+ Acrylic scourer               , Decision_Maker      , I sometimes decide                                               ,0.11,0.136,0.418,0.81
+ Acrylic scourer               , Brand often brought , 3M                                                               ,0.013,0.136,0.925,0.09
+ Acrylic scourer               , Brand often brought , Scotch-Brite by 3M                                               ,0.044,0.127,0.726,0.35
+ Acrylic scourer               , Brand often brought , Cleanwrap                                                        ,0.013,0.172,0.94,0.08
+ Acrylic scourer               , Brand often brought , Daiso                                                            ,0.096,0.13,0.458,0.74
+ Acrylic scourer               , Brand often brought , Kitchen-Art                                                      ,-0.175,0.192,0.363,-0.91
+ Acrylic scourer               , Brand often brought , Scrub daddy                                                      ,0.018,0.157,0.91,0.11
+ Acrylic scourer               , Brand often brought , No Brand                                                         ,0.084,0.185,0.651,0.45
+ Acrylic scourer               , Brand often brought , Komax                                                            ,-0.006,0.206,0.977,-0.03
+ Acrylic scourer               , Brand often brought , Atomi                                                            ,0.079,0.194,0.684,0.41
+ Acrylic scourer               , Brand often brought , Trista (formerly Byulpyo                                         ,0.06,0.204,0.768,0.3
+ Acrylic scourer               , Brand often brought , Scott (Yuhan-Kimberly                                            ,0.007,0.164,0.966,0.04
+ Acrylic scourer               , Brand often brought , HomePlus PB                                                      ,-0.045,0.215,0.834,-0.21
+ Acrylic scourer               , Brand often brought , Amway                                                            ,-0.233,0.163,0.153,-1.43
+ Acrylic scourer               , Brand often brought , Spontex                                                          ,-0.119,0.179,0.505,-0.67
+ Acrylic scourer               , Brand often brought , HankookTamina                                                    ,-0.141,0.28,0.615,-0.5
+ Acrylic scourer               , Brand often brought , Loving Home(Emart PB                                             ,0.301,0.266,0.258,1.13
+ Acrylic scourer               , Brand often brought , Frog                                                             ,0.439,0.251,0.08,1.75
+ Acrylic scourer               , Brand often brought , Svinto                                                           ,-0.432,0.222,0.052,-1.95
+ Acrylic scourer               , Brand often brought , Lotte e-life                                                     ,0.212,0.242,0.381,0.88
+ Acrylic scourer               , Brand often brought , LotteAluminum                                                    ,0.023,0.278,0.934,0.08
+ Acrylic scourer               , Brand often brought , Wisewipe                                                         ,-0.009,0.272,0.974,-0.03
+ Acrylic scourer               , Brand often brought , Dearcus                                                          ,-0.207,0.273,0.449,-0.76
+ Acrylic scourer               , Brand often brought , Skrubba                                                          ,0.187,0.225,0.406,0.83
+ Bottle cleaner with handle    , Gender              , Male                                                             ,-0.13,0.06,0.03,-2.17
+ Bottle cleaner with handle    , Income              ," 6,000,000 KRW – 6,999,999 KRW                                    ",0.045,0.094,0.633,0.48
+ Bottle cleaner with handle    , Income              ," 4,000,000 KRW – 4,999,999 KRW                                    ",-0.039,0.091,0.67,-0.43
+ Bottle cleaner with handle    , Income              ," 7,000,000 KRW – 7,999,999 KRW                                    ",-0.33,0.119,0.005,-2.78
+ Bottle cleaner with handle    , Income              ," 8,000,000 KRW – 8,999,999 KRW                                    ",-0.018,0.093,0.844,-0.2
+ Bottle cleaner with handle    , Income              ," 5,000,000 KRW – 5,999,999 KRW                                    ",-0.177,0.091,0.053,-1.93
+ Bottle cleaner with handle    , Income              ," 2,000,000 KRW – 2,999,999 KRW                                    ",-0.019,0.081,0.813,-0.24
+ Bottle cleaner with handle    , Income              ," 9,000,000 KRW – 9,999,999 KRW                                    ",0.007,0.112,0.947,0.07
+ Bottle cleaner with handle    , Income              ," 10,000,000 KRW and above                                         ",-0.049,0.102,0.635,-0.47
+ Bottle cleaner with handle    , Decision_Maker      , I sometimes decide                                               ,-0.199,0.164,0.225,-1.21
+ Bottle cleaner with handle    , Brand often brought , 3M                                                               ,0.196,0.14,0.161,1.4
+ Bottle cleaner with handle    , Brand often brought , Scotch-Brite by 3M                                               ,-0.008,0.129,0.948,-0.07
+ Bottle cleaner with handle    , Brand often brought , Cleanwrap                                                        ,0.023,0.171,0.891,0.14
+ Bottle cleaner with handle    , Brand often brought , Daiso                                                            ,0.016,0.133,0.902,0.12
+ Bottle cleaner with handle    , Brand often brought , Kitchen-Art                                                      ,0.176,0.198,0.372,0.89
+ Bottle cleaner with handle    , Brand often brought , Scrub daddy                                                      ,0.239,0.175,0.171,1.37
+ Bottle cleaner with handle    , Brand often brought , No Brand                                                         ,0.149,0.184,0.416,0.81
+ Bottle cleaner with handle    , Brand often brought , Komax                                                            ,0.117,0.231,0.611,0.51
+ Bottle cleaner with handle    , Brand often brought , Atomi                                                            ,0.208,0.184,0.258,1.13
+ Bottle cleaner with handle    , Brand often brought , Trista (formerly Byulpyo                                         ,0.093,0.214,0.663,0.44
+ Bottle cleaner with handle    , Brand often brought , Scott (Yuhan-Kimberly                                            ,0.253,0.167,0.13,1.51
+ Bottle cleaner with handle    , Brand often brought , HomePlus PB                                                      ,0.14,0.198,0.479,0.71
+ Bottle cleaner with handle    , Brand often brought , Amway                                                            ,-0.005,0.164,0.978,-0.03
+ Bottle cleaner with handle    , Brand often brought , Spontex                                                          ,0.106,0.181,0.559,0.58
+ Bottle cleaner with handle    , Brand often brought , HankookTamina                                                    ,0.063,0.285,0.825,0.22
+ Bottle cleaner with handle    , Brand often brought , Loving Home(Emart PB                                             ,0.334,0.258,0.196,1.29
+ Bottle cleaner with handle    , Brand often brought , Frog                                                             ,-0.214,0.303,0.481,-0.71
+ Bottle cleaner with handle    , Brand often brought , Svinto                                                           ,0.023,0.208,0.911,0.11
+ Bottle cleaner with handle    , Brand often brought , Lotte e-life                                                     ,0.039,0.217,0.857,0.18
+ Bottle cleaner with handle    , Brand often brought , LotteAluminum                                                    ,0.223,0.26,0.391,0.86
+ Bottle cleaner with handle    , Brand often brought , Wisewipe                                                         ,-0.174,0.252,0.491,-0.69
+ Bottle cleaner with handle    , Brand often brought , Dearcus                                                          ,-0.051,0.261,0.846,-0.19
+ Bottle cleaner with handle    , Brand often brought , Skrubba                                                          ,0.139,0.235,0.553,0.59
+ Disposable Sheet              , Gender              , Male                                                             ,-0.254,0.085,0.003,-3.01
+ Disposable Sheet              , Income              ," 6,000,000 KRW – 6,999,999 KRW                                    ",-0.059,0.127,0.644,-0.46
+ Disposable Sheet              , Income              ," 4,000,000 KRW – 4,999,999 KRW                                    ",-0.12,0.13,0.356,-0.92
+ Disposable Sheet              , Income              ," 7,000,000 KRW – 7,999,999 KRW                                    ",-0.064,0.129,0.619,-0.5
+ Disposable Sheet              , Income              ," 8,000,000 KRW – 8,999,999 KRW                                    ",-0.099,0.126,0.434,-0.78
+ Disposable Sheet              , Income              ," 5,000,000 KRW – 5,999,999 KRW                                    ",-0.115,0.115,0.318,-1
+ Disposable Sheet              , Income              ," 2,000,000 KRW – 2,999,999 KRW                                    ",-0.162,0.116,0.163,-1.4
+ Disposable Sheet              , Income              ," 9,000,000 KRW – 9,999,999 KRW                                    ",-0.234,0.148,0.114,-1.58
+ Disposable Sheet              , Income              ," 10,000,000 KRW and above                                         ",-0.041,0.143,0.773,-0.29
+ Disposable Sheet              , Decision_Maker      , I sometimes decide                                               ,-0.046,0.184,0.802,-0.25
+ Disposable Sheet              , Brand often brought , 3M                                                               ,0.205,0.191,0.283,1.07
+ Disposable Sheet              , Brand often brought , Scotch-Brite by 3M                                               ,0.162,0.18,0.369,0.9
+ Disposable Sheet              , Brand often brought , Cleanwrap                                                        ,0.398,0.247,0.107,1.61
+ Disposable Sheet              , Brand often brought , Daiso                                                            ,0.065,0.18,0.72,0.36
+ Disposable Sheet              , Brand often brought , Kitchen-Art                                                      ,0.129,0.285,0.651,0.45
+ Disposable Sheet              , Brand often brought , Scrub daddy                                                      ,-0.049,0.225,0.829,-0.22
+ Disposable Sheet              , Brand often brought , No Brand                                                         ,0.27,0.248,0.275,1.09
+ Disposable Sheet              , Brand often brought , Komax                                                            ,0.142,0.305,0.642,0.46
+ Disposable Sheet              , Brand often brought , Atomi                                                            ,0.455,0.278,0.102,1.64
+ Disposable Sheet              , Brand often brought , Trista (formerly Byulpyo                                         ,-0.034,0.315,0.914,-0.11
+ Disposable Sheet              , Brand often brought , Scott (Yuhan-Kimberly                                            ,-0.012,0.229,0.958,-0.05
+ Disposable Sheet              , Brand often brought , HomePlus PB                                                      ,0.252,0.298,0.398,0.85
+ Disposable Sheet              , Brand often brought , Amway                                                            ,-0.156,0.226,0.49,-0.69
+ Disposable Sheet              , Brand often brought , Spontex                                                          ,-0.091,0.243,0.708,-0.37
+ Disposable Sheet              , Brand often brought , HankookTamina                                                    ,0.294,0.363,0.418,0.81
+ Disposable Sheet              , Brand often brought , Loving Home(Emart PB                                             ,0.493,0.339,0.147,1.45
+ Disposable Sheet              , Brand often brought , Frog                                                             ,0.115,0.356,0.747,0.32
+ Disposable Sheet              , Brand often brought , Svinto                                                           ,0.229,0.297,0.44,0.77
+ Disposable Sheet              , Brand often brought , Lotte e-life                                                     ,0.231,0.317,0.467,0.73
+ Disposable Sheet              , Brand often brought , LotteAluminum                                                    ,0.096,0.398,0.81,0.24
+ Disposable Sheet              , Brand often brought , Wisewipe                                                         ,0.58,0.392,0.139,1.48
+ Disposable Sheet              , Brand often brought , Dearcus                                                          ,-0.153,0.397,0.699,-0.39
+ Disposable Sheet              , Brand often brought , Skrubba                                                          ,-0.025,0.322,0.937,-0.08
+ Handled Dishwand              , Gender              , Male                                                             ,-0.203,0.068,0.003,-3
+ Handled Dishwand              , Income              ," 6,000,000 KRW – 6,999,999 KRW                                    ",-0.021,0.108,0.847,-0.19
+ Handled Dishwand              , Income              ," 4,000,000 KRW – 4,999,999 KRW                                    ",0.013,0.105,0.901,0.12
+ Handled Dishwand              , Income              ," 7,000,000 KRW – 7,999,999 KRW                                    ",-0.009,0.109,0.933,-0.08
+ Handled Dishwand              , Income              ," 8,000,000 KRW – 8,999,999 KRW                                    ",0.046,0.11,0.675,0.42
+ Handled Dishwand              , Income              ," 5,000,000 KRW – 5,999,999 KRW                                    ",0.028,0.1,0.777,0.28
+ Handled Dishwand              , Income              ," 2,000,000 KRW – 2,999,999 KRW                                    ",0.014,0.09,0.878,0.15
+ Handled Dishwand              , Income              ," 9,000,000 KRW – 9,999,999 KRW                                    ",0.141,0.121,0.243,1.17
+ Handled Dishwand              , Income              ," 10,000,000 KRW and above                                         ",-0.147,0.125,0.237,-1.18
+ Handled Dishwand              , Decision_Maker      , I sometimes decide                                               ,-0.055,0.157,0.728,-0.35
+ Handled Dishwand              , Brand often brought , 3M                                                               ,0.112,0.158,0.476,0.71
+ Handled Dishwand              , Brand often brought , Scotch-Brite by 3M                                               ,0.088,0.149,0.555,0.59
+ Handled Dishwand              , Brand often brought , Cleanwrap                                                        ,0.358,0.206,0.083,1.74
+ Handled Dishwand              , Brand often brought , Daiso                                                            ,0.029,0.151,0.846,0.19
+ Handled Dishwand              , Brand often brought , Kitchen-Art                                                      ,0.104,0.23,0.651,0.45
+ Handled Dishwand              , Brand often brought , Scrub daddy                                                      ,0.18,0.188,0.338,0.96
+ Handled Dishwand              , Brand often brought , No Brand                                                         ,0.168,0.209,0.42,0.81
+ Handled Dishwand              , Brand often brought , Komax                                                            ,0.176,0.246,0.473,0.72
+ Handled Dishwand              , Brand often brought , Atomi                                                            ,0.365,0.237,0.123,1.54
+ Handled Dishwand              , Brand often brought , Trista (formerly Byulpyo                                         ,0.078,0.256,0.761,0.3
+ Handled Dishwand              , Brand often brought , Scott (Yuhan-Kimberly                                            ,0.09,0.189,0.634,0.48
+ Handled Dishwand              , Brand often brought , HomePlus PB                                                      ,0.203,0.251,0.419,0.81
+ Handled Dishwand              , Brand often brought , Amway                                                            ,-0.036,0.189,0.85,-0.19
+ Handled Dishwand              , Brand often brought , Spontex                                                          ,0.044,0.204,0.828,0.22
+ Handled Dishwand              , Brand often brought , HankookTamina                                                    ,0.068,0.311,0.827,0.22
+ Handled Dishwand              , Brand often brought , Loving Home(Emart PB                                             ,0.479,0.3,0.11,1.6
+ Handled Dishwand              , Brand often brought , Frog                                                             ,0.233,0.298,0.433,0.78
+ Handled Dishwand              , Brand often brought , Svinto                                                           ,0.027,0.239,0.91,0.11
+ Handled Dishwand              , Brand often brought , Lotte e-life                                                     ,0.485,0.283,0.087,1.71
+ Handled Dishwand              , Brand often brought , LotteAluminum                                                    ,0.262,0.331,0.429,0.79
+ Handled Dishwand              , Brand often brought , Wisewipe                                                         ,0.062,0.299,0.836,0.21
+ Handled Dishwand              , Brand often brought , Dearcus                                                          ,0.247,0.315,0.433,0.78
+ Handled Dishwand              , Brand often brought , Skrubba                                                          ,0.331,0.262,0.206,1.26
+ Large sheet/wipe              , Gender              , Male                                                             ,-0.153,0.07,0.028,-2.19
+ Large sheet/wipe              , Income              ," 6,000,000 KRW – 6,999,999 KRW                                    ",-0.047,0.117,0.689,-0.4
+ Large sheet/wipe              , Income              ," 4,000,000 KRW – 4,999,999 KRW                                    ",-0.044,0.112,0.693,-0.39
+ Large sheet/wipe              , Income              ," 7,000,000 KRW – 7,999,999 KRW                                    ",0.13,0.121,0.283,1.07
+ Large sheet/wipe              , Income              ," 8,000,000 KRW – 8,999,999 KRW                                    ",-0.052,0.114,0.65,-0.45
+ Large sheet/wipe              , Income              ," 5,000,000 KRW – 5,999,999 KRW                                    ",-0.073,0.104,0.482,-0.7
+ Large sheet/wipe              , Income              ," 2,000,000 KRW – 2,999,999 KRW                                    ",0.014,0.097,0.886,0.14
+ Large sheet/wipe              , Income              ," 9,000,000 KRW – 9,999,999 KRW                                    ",0.052,0.119,0.659,0.44
+ Large sheet/wipe              , Income              ," 10,000,000 KRW and above                                         ",-0.111,0.131,0.396,-0.85
+ Large sheet/wipe              , Decision_Maker      , I sometimes decide                                               ,-0.146,0.176,0.407,-0.83
+ Large sheet/wipe              , Brand often brought , 3M                                                               ,0.141,0.166,0.395,0.85
+ Large sheet/wipe              , Brand often brought , Scotch-Brite by 3M                                               ,-0.043,0.156,0.785,-0.27
+ Large sheet/wipe              , Brand often brought , Cleanwrap                                                        ,0.261,0.215,0.224,1.22
+ Large sheet/wipe              , Brand often brought , Daiso                                                            ,0.039,0.159,0.804,0.25
+ Large sheet/wipe              , Brand often brought , Kitchen-Art                                                      ,-0.05,0.242,0.837,-0.21
+ Large sheet/wipe              , Brand often brought , Scrub daddy                                                      ,0.03,0.196,0.879,0.15
+ Large sheet/wipe              , Brand often brought , No Brand                                                         ,0.034,0.221,0.879,0.15
+ Large sheet/wipe              , Brand often brought , Komax                                                            ,-0.233,0.276,0.398,-0.84
+ Large sheet/wipe              , Brand often brought , Atomi                                                            ,0.232,0.241,0.337,0.96
+ Large sheet/wipe              , Brand often brought , Trista (formerly Byulpyo                                         ,-0.235,0.293,0.422,-0.8
+ Large sheet/wipe              , Brand often brought , Scott (Yuhan-Kimberly                                            ,0.032,0.201,0.874,0.16
+ Large sheet/wipe              , Brand often brought , HomePlus PB                                                      ,0.178,0.262,0.497,0.68
+ Large sheet/wipe              , Brand often brought , Amway                                                            ,-0.173,0.2,0.387,-0.87
+ Large sheet/wipe              , Brand often brought , Spontex                                                          ,-0.1,0.216,0.642,-0.47
+ Large sheet/wipe              , Brand often brought , HankookTamina                                                    ,0.05,0.32,0.876,0.16
+ Large sheet/wipe              , Brand often brought , Loving Home(Emart PB                                             ,0.568,0.308,0.065,1.84
+ Large sheet/wipe              , Brand often brought , Frog                                                             ,0.066,0.307,0.83,0.21
+ Large sheet/wipe              , Brand often brought , Svinto                                                           ,0.011,0.248,0.964,0.05
+ Large sheet/wipe              , Brand often brought , Lotte e-life                                                     ,0.11,0.276,0.691,0.4
+ Large sheet/wipe              , Brand often brought , LotteAluminum                                                    ,0.228,0.348,0.512,0.66
+ Large sheet/wipe              , Brand often brought , Wisewipe                                                         ,0.015,0.338,0.964,0.04
+ Large sheet/wipe              , Brand often brought , Dearcus                                                          ,0.086,0.319,0.787,0.27
+ Large sheet/wipe              , Brand often brought , Skrubba                                                          ,-0.032,0.276,0.907,-0.12
+ Metal Ball Scourer            , Gender              , Male                                                             ,-0.194,0.267,0.468,-0.73
+ Metal Ball Scourer            , Income              ," 6,000,000 KRW – 6,999,999 KRW                                    ",-0.023,0.416,0.956,-0.06
+ Metal Ball Scourer            , Income              ," 4,000,000 KRW – 4,999,999 KRW                                    ",-0.526,0.597,0.378,-0.88
+ Metal Ball Scourer            , Income              ," 7,000,000 KRW – 7,999,999 KRW                                    ",-0.484,0.465,0.298,-1.04
+ Metal Ball Scourer            , Income              ," 8,000,000 KRW – 8,999,999 KRW                                    ",-0.655,0.685,0.339,-0.96
+ Metal Ball Scourer            , Income              ," 5,000,000 KRW – 5,999,999 KRW                                    ",-0.322,0.425,0.449,-0.76
+ Metal Ball Scourer            , Income              ," 2,000,000 KRW – 2,999,999 KRW                                    ",-0.482,0.449,0.283,-1.07
+ Metal Ball Scourer            , Income              ," 9,000,000 KRW – 9,999,999 KRW                                    ",-1.413,0.974,0.147,-1.45
+ Metal Ball Scourer            , Income              ," 10,000,000 KRW and above                                         ",-0.746,0.658,0.256,-1.13
+ Metal Ball Scourer            , Decision_Maker      , I sometimes decide                                               ,-0.565,0.723,0.434,-0.78
+ Metal Ball Scourer            , Brand often brought , 3M                                                               ,1.153,0.748,0.123,1.54
+ Metal Ball Scourer            , Brand often brought , Scotch-Brite by 3M                                               ,0.687,0.538,0.202,1.28
+ Metal Ball Scourer            , Brand often brought , Cleanwrap                                                        ,1.376,0.845,0.104,1.63
+ Metal Ball Scourer            , Brand often brought , Daiso                                                            ,0.047,0.419,0.911,0.11
+ Metal Ball Scourer            , Brand often brought , Kitchen-Art                                                      ,0.041,0.963,0.966,0.04
+ Metal Ball Scourer            , Brand often brought , Scrub daddy                                                      ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , No Brand                                                         ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , Komax                                                            ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , Atomi                                                            ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , Trista (formerly Byulpyo                                         ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , Scott (Yuhan-Kimberly                                            ,0.813,0.786,0.301,1.03
+ Metal Ball Scourer            , Brand often brought , HomePlus PB                                                      ,1.258,0.978,0.198,1.29
+ Metal Ball Scourer            , Brand often brought , Amway                                                            ,0.726,0.728,0.319,1
+ Metal Ball Scourer            , Brand often brought , Spontex                                                          ,0.207,0.755,0.784,0.27
+ Metal Ball Scourer            , Brand often brought , HankookTamina                                                    ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , Loving Home(Emart PB                                             ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , Frog                                                             ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , Svinto                                                           ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , Lotte e-life                                                     ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , LotteAluminum                                                    ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , Wisewipe                                                         ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , Dearcus                                                          ,0,0,1,0
+ Metal Ball Scourer            , Brand often brought , Skrubba                                                          ,0.029,1.021,0.978,0.03
+ Net Sponge                    , Gender              , Male                                                             ,-0.179,0.071,0.012,-2.5
+ Net Sponge                    , Income              ," 6,000,000 KRW – 6,999,999 KRW                                    ",0.154,0.12,0.199,1.28
+ Net Sponge                    , Income              ," 4,000,000 KRW – 4,999,999 KRW                                    ",0.033,0.115,0.772,0.29
+ Net Sponge                    , Income              ," 7,000,000 KRW – 7,999,999 KRW                                    ",0.098,0.122,0.422,0.8
+ Net Sponge                    , Income              ," 8,000,000 KRW – 8,999,999 KRW                                    ",-0.007,0.118,0.95,-0.06
+ Net Sponge                    , Income              ," 5,000,000 KRW – 5,999,999 KRW                                    ",-0.031,0.106,0.767,-0.3
+ Net Sponge                    , Income              ," 2,000,000 KRW – 2,999,999 KRW                                    ",0.108,0.099,0.277,1.09
+ Net Sponge                    , Income              ," 9,000,000 KRW – 9,999,999 KRW                                    ",0.034,0.122,0.782,0.28
+ Net Sponge                    , Income              ," 10,000,000 KRW and above                                         ",-0.232,0.14,0.098,-1.66
+ Net Sponge                    , Decision_Maker      , I sometimes decide                                               ,-0.204,0.182,0.264,-1.12
+ Net Sponge                    , Brand often brought , 3M                                                               ,0.112,0.173,0.518,0.65
+ Net Sponge                    , Brand often brought , Scotch-Brite by 3M                                               ,0.07,0.162,0.666,0.43
+ Net Sponge                    , Brand often brought , Cleanwrap                                                        ,0.119,0.215,0.58,0.55
+ Net Sponge                    , Brand often brought , Daiso                                                            ,0.152,0.166,0.36,0.92
+ Net Sponge                    , Brand often brought , Kitchen-Art                                                      ,-0.169,0.251,0.5,-0.67
+ Net Sponge                    , Brand often brought , Scrub daddy                                                      ,-0.014,0.202,0.943,-0.07
+ Net Sponge                    , Brand often brought , No Brand                                                         ,0.071,0.229,0.757,0.31
+ Net Sponge                    , Brand often brought , Komax                                                            ,-0.045,0.269,0.866,-0.17
+ Net Sponge                    , Brand often brought , Atomi                                                            ,0.291,0.25,0.244,1.16
+ Net Sponge                    , Brand often brought , Trista (formerly Byulpyo                                         ,0.168,0.281,0.55,0.6
+ Net Sponge                    , Brand often brought , Scott (Yuhan-Kimberly                                            ,0.083,0.205,0.686,0.4
+ Net Sponge                    , Brand often brought , HomePlus PB                                                      ,-0.266,0.283,0.347,-0.94
+ Net Sponge                    , Brand often brought , Amway                                                            ,-0.192,0.206,0.351,-0.93
+ Net Sponge                    , Brand often brought , Spontex                                                          ,-0.27,0.229,0.238,-1.18
+ Net Sponge                    , Brand often brought , HankookTamina                                                    ,0.104,0.327,0.75,0.32
+ Net Sponge                    , Brand often brought , Loving Home(Emart PB                                             ,0.486,0.309,0.116,1.57
+ Net Sponge                    , Brand often brought , Frog                                                             ,0.025,0.32,0.938,0.08
+ Net Sponge                    , Brand often brought , Svinto                                                           ,-0.004,0.255,0.988,-0.02
+ Net Sponge                    , Brand often brought , Lotte e-life                                                     ,-0.127,0.299,0.67,-0.43
+ Net Sponge                    , Brand often brought , LotteAluminum                                                    ,0.343,0.355,0.333,0.97
+ Net Sponge                    , Brand often brought , Wisewipe                                                         ,-0.232,0.341,0.497,-0.68
+ Net Sponge                    , Brand often brought , Dearcus                                                          ,-0.381,0.344,0.268,-1.11
+ Net Sponge                    , Brand often brought , Skrubba                                                          ,-0.069,0.288,0.81,-0.24
+ Net/Mesh cloth                , Gender              , Male                                                             ,-0.279,0.086,0.001,-3.23
+ Net/Mesh cloth                , Income              ," 6,000,000 KRW – 6,999,999 KRW                                    ",0.054,0.124,0.661,0.44
+ Net/Mesh cloth                , Income              ," 4,000,000 KRW – 4,999,999 KRW                                    ",0.151,0.126,0.231,1.2
+ Net/Mesh cloth                , Income              ," 7,000,000 KRW – 7,999,999 KRW                                    ",0.176,0.132,0.183,1.33
+ Net/Mesh cloth                , Income              ," 8,000,000 KRW – 8,999,999 KRW                                    ",0.123,0.125,0.324,0.99
+ Net/Mesh cloth                , Income              ," 5,000,000 KRW – 5,999,999 KRW                                    ",-0.021,0.111,0.849,-0.19
+ Net/Mesh cloth                , Income              ," 2,000,000 KRW – 2,999,999 KRW                                    ",0.061,0.103,0.55,0.6
+ Net/Mesh cloth                , Income              ," 9,000,000 KRW – 9,999,999 KRW                                    ",0,0,1,0
+ Net/Mesh cloth                , Income              ," 10,000,000 KRW and above                                         ",0.065,0.144,0.65,0.45
+ Net/Mesh cloth                , Decision_Maker      , I sometimes decide                                               ,-0.088,0.182,0.63,-0.48
+ Net/Mesh cloth                , Brand often brought , 3M                                                               ,0.064,0.178,0.72,0.36
+ Net/Mesh cloth                , Brand often brought , Scotch-Brite by 3M                                               ,-0.03,0.167,0.858,-0.18
+ Net/Mesh cloth                , Brand often brought , Cleanwrap                                                        ,0.217,0.228,0.342,0.95
+ Net/Mesh cloth                , Brand often brought , Daiso                                                            ,-0.06,0.172,0.727,-0.35
+ Net/Mesh cloth                , Brand often brought , Kitchen-Art                                                      ,-0.315,0.278,0.258,-1.13
+ Net/Mesh cloth                , Brand often brought , Scrub daddy                                                      ,-0.231,0.221,0.297,-1.04
+ Net/Mesh cloth                , Brand often brought , No Brand                                                         ,-0.116,0.241,0.632,-0.48
+ Net/Mesh cloth                , Brand often brought , Komax                                                            ,-0.35,0.312,0.262,-1.12
+ Net/Mesh cloth                , Brand often brought , Atomi                                                            ,0.137,0.263,0.603,0.52
+ Net/Mesh cloth                , Brand often brought , Trista (formerly Byulpyo                                         ,-0.233,0.303,0.442,-0.77
+ Net/Mesh cloth                , Brand often brought , Scott (Yuhan-Kimberly                                            ,-0.036,0.216,0.867,-0.17
+ Net/Mesh cloth                , Brand often brought , HomePlus PB                                                      ,-0.103,0.282,0.715,-0.37
+ Net/Mesh cloth                , Brand often brought , Amway                                                            ,-0.495,0.233,0.034,-2.12
+ Net/Mesh cloth                , Brand often brought , Spontex                                                          ,-0.41,0.252,0.104,-1.63
+ Net/Mesh cloth                , Brand often brought , HankookTamina                                                    ,0.037,0.338,0.913,0.11
+ Net/Mesh cloth                , Brand often brought , Loving Home(Emart PB                                             ,0.008,0.363,0.983,0.02
+ Net/Mesh cloth                , Brand often brought , Frog                                                             ,-0.203,0.335,0.545,-0.61
+ Net/Mesh cloth                , Brand often brought , Svinto                                                           ,-0.504,0.292,0.085,-1.72
+ Net/Mesh cloth                , Brand often brought , Lotte e-life                                                     ,-0.254,0.292,0.384,-0.87
+ Net/Mesh cloth                , Brand often brought , LotteAluminum                                                    ,0.368,0.363,0.31,1.01
+ Net/Mesh cloth                , Brand often brought , Wisewipe                                                         ,0.089,0.354,0.802,0.25
+ Net/Mesh cloth                , Brand often brought , Dearcus                                                          ,-0.715,0.414,0.084,-1.73
+ Net/Mesh cloth                , Brand often brought , Skrubba                                                          ,-0.438,0.341,0.199,-1.28
+ Scrub Pad                     , Gender              , Male                                                             ,-0.133,0.068,0.051,-1.95
+ Scrub Pad                     , Income              ," 6,000,000 KRW – 6,999,999 KRW                                    ",-0.038,0.115,0.741,-0.33
+ Scrub Pad                     , Income              ," 4,000,000 KRW – 4,999,999 KRW                                    ",-0.022,0.109,0.843,-0.2
+ Scrub Pad                     , Income              ," 7,000,000 KRW – 7,999,999 KRW                                    ",0.02,0.114,0.862,0.17
+ Scrub Pad                     , Income              ," 8,000,000 KRW – 8,999,999 KRW                                    ",-0.128,0.114,0.26,-1.13
+ Scrub Pad                     , Income              ," 5,000,000 KRW – 5,999,999 KRW                                    ",-0.045,0.101,0.655,-0.45
+ Scrub Pad                     , Income              ," 2,000,000 KRW – 2,999,999 KRW                                    ",-0.014,0.094,0.879,-0.15
+ Scrub Pad                     , Income              ," 9,000,000 KRW – 9,999,999 KRW                                    ",-0.06,0.135,0.655,-0.45
+ Scrub Pad                     , Income              ," 10,000,000 KRW and above                                         ",-0.007,0.129,0.955,-0.06
+ Scrub Pad                     , Decision_Maker      , I sometimes decide                                               ,0.002,0.169,0.99,0.01
+ Scrub Pad                     , Brand often brought , 3M                                                               ,0.068,0.159,0.672,0.42
+ Scrub Pad                     , Brand often brought , Scotch-Brite by 3M                                               ,0.001,0.149,0.994,0.01
+ Scrub Pad                     , Brand often brought , Cleanwrap                                                        ,0.229,0.204,0.262,1.12
+ Scrub Pad                     , Brand often brought , Daiso                                                            ,0.044,0.152,0.772,0.29
+ Scrub Pad                     , Brand often brought , Kitchen-Art                                                      ,0.051,0.227,0.823,0.22
+ Scrub Pad                     , Brand often brought , Scrub daddy                                                      ,-0.016,0.186,0.93,-0.09
+ Scrub Pad                     , Brand often brought , No Brand                                                         ,0.304,0.214,0.155,1.42
+ Scrub Pad                     , Brand often brought , Komax                                                            ,0.138,0.245,0.573,0.56
+ Scrub Pad                     , Brand often brought , Atomi                                                            ,0.221,0.239,0.355,0.93
+ Scrub Pad                     , Brand often brought , Trista (formerly Byulpyo                                         ,-0.174,0.269,0.517,-0.65
+ Scrub Pad                     , Brand often brought , Scott (Yuhan-Kimberly                                            ,0.171,0.194,0.377,0.88
+ Scrub Pad                     , Brand often brought , HomePlus PB                                                      ,0.099,0.246,0.688,0.4
+ Scrub Pad                     , Brand often brought , Amway                                                            ,-0.157,0.192,0.413,-0.82
+ Scrub Pad                     , Brand often brought , Spontex                                                          ,0.257,0.214,0.23,1.2
+ Scrub Pad                     , Brand often brought , HankookTamina                                                    ,-0.258,0.306,0.399,-0.84
+ Scrub Pad                     , Brand often brought , Loving Home(Emart PB                                             ,0.354,0.321,0.27,1.1
+ Scrub Pad                     , Brand often brought , Frog                                                             ,0.312,0.286,0.276,1.09
+ Scrub Pad                     , Brand often brought , Svinto                                                           ,-0.164,0.252,0.514,-0.65
+ Scrub Pad                     , Brand often brought , Lotte e-life                                                     ,0.384,0.272,0.157,1.41
+ Scrub Pad                     , Brand often brought , LotteAluminum                                                    ,0.143,0.341,0.675,0.42
+ Scrub Pad                     , Brand often brought , Wisewipe                                                         ,0.244,0.302,0.42,0.81
+ Scrub Pad                     , Brand often brought , Dearcus                                                          ,0.16,0.297,0.59,0.54
+ Scrub Pad                     , Brand often brought , Skrubba                                                          ,0.248,0.254,0.329,0.98
+ Scrub Sponge                  , Gender              , Male                                                             ,-0.016,0.06,0.795,-0.26
+ Scrub Sponge                  , Income              ," 6,000,000 KRW – 6,999,999 KRW                                    ",0.086,0.099,0.386,0.87
+ Scrub Sponge                  , Income              ," 4,000,000 KRW – 4,999,999 KRW                                    ",-0.002,0.096,0.982,-0.02
+ Scrub Sponge                  , Income              ," 7,000,000 KRW – 7,999,999 KRW                                    ",-0.032,0.099,0.743,-0.33
+ Scrub Sponge                  , Income              ," 8,000,000 KRW – 8,999,999 KRW                                    ",-0.037,0.098,0.708,-0.37
+ Scrub Sponge                  , Income              ," 5,000,000 KRW – 5,999,999 KRW                                    ",-0.07,0.089,0.431,-0.79
+ Scrub Sponge                  , Income              ," 2,000,000 KRW – 2,999,999 KRW                                    ",0.006,0.083,0.938,0.08
+ Scrub Sponge                  , Income              ," 9,000,000 KRW – 9,999,999 KRW                                    ",-0.1,0.102,0.325,-0.98
+ Scrub Sponge                  , Income              ," 10,000,000 KRW and above                                         ",-0.172,0.117,0.141,-1.47
+ Scrub Sponge                  , Decision_Maker      , I sometimes decide                                               ,-0.031,0.143,0.827,-0.22
+ Scrub Sponge                  , Brand often brought , 3M                                                               ,-0.066,0.14,0.636,-0.47
+ Scrub Sponge                  , Brand often brought , Scotch-Brite by 3M                                               ,-0.049,0.13,0.706,-0.38
+ Scrub Sponge                  , Brand often brought , Cleanwrap                                                        ,-0.145,0.18,0.418,-0.81
+ Scrub Sponge                  , Brand often brought , Daiso                                                            ,-0.013,0.132,0.922,-0.1
+ Scrub Sponge                  , Brand often brought , Kitchen-Art                                                      ,-0.028,0.204,0.891,-0.14
+ Scrub Sponge                  , Brand often brought , Scrub daddy                                                      ,-0.194,0.174,0.265,-1.12
+ Scrub Sponge                  , Brand often brought , No Brand                                                         ,0.05,0.189,0.79,0.27
+ Scrub Sponge                  , Brand often brought , Komax                                                            ,-0.128,0.237,0.589,-0.54
+ Scrub Sponge                  , Brand often brought , Atomi                                                            ,0.079,0.203,0.696,0.39
+ Scrub Sponge                  , Brand often brought , Trista (formerly Byulpyo                                         ,-0.017,0.224,0.939,-0.08
+ Scrub Sponge                  , Brand often brought , Scott (Yuhan-Kimberly                                            ,-0.062,0.171,0.718,-0.36
+ Scrub Sponge                  , Brand often brought , HomePlus PB                                                      ,-0.201,0.227,0.375,-0.89
+ Scrub Sponge                  , Brand often brought , Amway                                                            ,-0.187,0.168,0.264,-1.12
+ Scrub Sponge                  , Brand often brought , Spontex                                                          ,-0.174,0.184,0.344,-0.95
+ Scrub Sponge                  , Brand often brought , HankookTamina                                                    ,0.023,0.273,0.933,0.08
+ Scrub Sponge                  , Brand often brought , Loving Home(Emart PB                                             ,0.316,0.256,0.217,1.24
+ Scrub Sponge                  , Brand often brought , Frog                                                             ,-0.166,0.255,0.515,-0.65
+ Scrub Sponge                  , Brand often brought , Svinto                                                           ,-0.32,0.215,0.137,-1.49
+ Scrub Sponge                  , Brand often brought , Lotte e-life                                                     ,-0.419,0.258,0.105,-1.62
+ Scrub Sponge                  , Brand often brought , LotteAluminum                                                    ,0.158,0.276,0.567,0.57
+ Scrub Sponge                  , Brand often brought , Wisewipe                                                         ,-0.074,0.264,0.779,-0.28
+ Scrub Sponge                  , Brand often brought , Dearcus                                                          ,-0.428,0.298,0.151,-1.44
+ Scrub Sponge                  , Brand often brought , Skrubba                                                          ,-0.083,0.238,0.727,-0.35
+ Sponge                        , Gender              , Male                                                             ,-0.039,0.073,0.588,-0.54
+ Sponge                        , Income              ," 6,000,000 KRW – 6,999,999 KRW                                    ",0.02,0.12,0.87,0.16
+ Sponge                        , Income              ," 4,000,000 KRW – 4,999,999 KRW                                    ",-0.065,0.118,0.583,-0.55
+ Sponge                        , Income              ," 7,000,000 KRW – 7,999,999 KRW                                    ",-0.04,0.124,0.749,-0.32
+ Sponge                        , Income              ," 8,000,000 KRW – 8,999,999 KRW                                    ",-0.141,0.122,0.246,-1.16
+ Sponge                        , Income              ," 5,000,000 KRW – 5,999,999 KRW                                    ",-0.03,0.109,0.782,-0.28
+ Sponge                        , Income              ," 2,000,000 KRW – 2,999,999 KRW                                    ",0.094,0.102,0.356,0.92
+ Sponge                        , Income              ," 9,000,000 KRW – 9,999,999 KRW                                    ",0.114,0.136,0.402,0.84
+ Sponge                        , Income              ," 10,000,000 KRW and above                                         ",-0.062,0.134,0.643,-0.46
+ Sponge                        , Decision_Maker      , I sometimes decide                                               ,0.034,0.178,0.849,0.19
+ Sponge                        , Brand often brought , 3M                                                               ,0.309,0.184,0.092,1.68
+ Sponge                        , Brand often brought , Scotch-Brite by 3M                                               ,0.152,0.169,0.367,0.9
+ Sponge                        , Brand often brought , Cleanwrap                                                        ,0.202,0.221,0.36,0.92
+ Sponge                        , Brand often brought , Daiso                                                            ,0.258,0.175,0.141,1.47
+ Sponge                        , Brand often brought , Kitchen-Art                                                      ,0.041,0.244,0.868,0.17
+ Sponge                        , Brand often brought , Scrub daddy                                                      ,0.234,0.212,0.271,1.1
+ Sponge                        , Brand often brought , No Brand                                                         ,0.327,0.241,0.176,1.35
+ Sponge                        , Brand often brought , Komax                                                            ,0.026,0.287,0.928,0.09
+ Sponge                        , Brand often brought , Atomi                                                            ,0.292,0.249,0.242,1.17
+ Sponge                        , Brand often brought , Trista (formerly Byulpyo                                         ,-0.277,0.321,0.388,-0.86
+ Sponge                        , Brand often brought , Scott (Yuhan-Kimberly                                            ,0.089,0.212,0.676,0.42
+ Sponge                        , Brand often brought , HomePlus PB                                                      ,0.167,0.279,0.55,0.6
+ Sponge                        , Brand often brought , Amway                                                            ,0.077,0.217,0.724,0.35
+ Sponge                        , Brand often brought , Spontex                                                          ,-0.008,0.228,0.971,-0.04
+ Sponge                        , Brand often brought , HankookTamina                                                    ,0.096,0.343,0.78,0.28
+ Sponge                        , Brand often brought , Loving Home(Emart PB                                             ,0.569,0.321,0.077,1.77
+ Sponge                        , Brand often brought , Frog                                                             ,-0.285,0.357,0.425,-0.8
+ Sponge                        , Brand often brought , Svinto                                                           ,-0.003,0.258,0.99,-0.01
+ Sponge                        , Brand often brought , Lotte e-life                                                     ,0.208,0.297,0.483,0.7
+ Sponge                        , Brand often brought , LotteAluminum                                                    ,0.329,0.34,0.333,0.97
+ Sponge                        , Brand often brought , Wisewipe                                                         ,-0.119,0.351,0.734,-0.34
+ Sponge                        , Brand often brought , Dearcus                                                          ,0.016,0.325,0.961,0.05
+ Sponge                        , Brand often brought , Skrubba                                                          ,0.109,0.3,0.717,0.36
+ Generic                       , Covariance          , Psi01_01                                                         ,1,0,1,0
+ Generic                       , Covariance          , Psi02_01                                                         ,0.274,0.211,0.194,1.3
+ Generic                       , Covariance          , Psi02_02                                                         ,0.683,0.292,0.019,2.34
+ Generic                       , Covariance          , Psi03_01                                                         ,0.5,0,1,0
+ Generic                       , Covariance          , Psi03_02                                                         ,0.362,0,1,0
+ Generic                       , Covariance          , Psi03_03                                                         ,1.166,1.189,0.327,0.98
+ Generic                       , Covariance          , Psi04_01                                                         ,0.224,1652345.975,1,0
+ Generic                       , Covariance          , Psi04_02                                                         ,0.286,0,1,0
+ Generic                       , Covariance          , Psi04_03                                                         ,0.061,1652445.514,1,0
+ Generic                       , Covariance          , Psi04_04                                                         ,0.53,3304708.785,1,0
+ Generic                       , Covariance          , Psi05_01                                                         ,0.5,0,1,0
+ Generic                       , Covariance          , Psi05_02                                                         ,0.362,0,1,0
+ Generic                       , Covariance          , Psi05_03                                                         ,0.719,     nan     ,   nan     ,    nan    
+ Generic                       , Covariance          , Psi05_04                                                         ,0.228,     nan     ,   nan     ,    nan    
+ Generic                       , Covariance          , Psi05_05                                                         ,1.237,     nan     ,   nan     ,    nan    
+ Generic                       , Covariance          , Psi06_01                                                         ,0.5,0,1,0
+ Generic                       , Covariance          , Psi06_02                                                         ,0.357,0.532,0.502,0.67
+ Generic                       , Covariance          , Psi06_03                                                         ,0.512,0.746,0.493,0.69
+ Generic                       , Covariance          , Psi06_04                                                         ,0.261,0,1,0
+ Generic                       , Covariance          , Psi06_05                                                         ,0.547,0,1,0
+ Generic                       , Covariance          , Psi06_06                                                         ,0.984,1.318,0.455,0.75
+ Generic                       , Covariance          , Psi07_01                                                         ,0.817,1086790.871,1,0
+ Generic                       , Covariance          , Psi07_02                                                         ,0.449,0,1,0
+ Generic                       , Covariance          , Psi07_03                                                         ,0.678,0,1,0
+ Generic                       , Covariance          , Psi07_04                                                         ,0.371,1705488.576,1,0
+ Generic                       , Covariance          , Psi07_05                                                         ,1.02,     nan     ,   nan     ,    nan    
+ Generic                       , Covariance          , Psi07_06                                                         ,0.71,0,1,0
+ Generic                       , Covariance          , Psi07_07                                                         ,1.925,2173305.662,1,0
+ Generic                       , Covariance          , Psi08_01                                                         ,0.5,0,1,0
+ Generic                       , Covariance          , Psi08_02                                                         ,0.366,1278247.561,1,0
+ Generic                       , Covariance          , Psi08_03                                                         ,0.583,1278338.183,1,0
+ Generic                       , Covariance          , Psi08_04                                                         ,0.254,0,1,0
+ Generic                       , Covariance          , Psi08_05                                                         ,0.383,     nan     ,   nan     ,    nan    
+ Generic                       , Covariance          , Psi08_06                                                         ,0.465,1278256.975,1,0
+ Generic                       , Covariance          , Psi08_07                                                         ,0.741,1319668.888,1,0
+ Generic                       , Covariance          , Psi08_08                                                         ,0.944,2556196.123,1,0
+ Generic                       , Covariance          , Psi09_01                                                         ,0.598,0.234,0.011,2.55
+ Generic                       , Covariance          , Psi09_02                                                         ,0.389,0,1,0
+ Generic                       , Covariance          , Psi09_03                                                         ,0.569,0,1,0
+ Generic                       , Covariance          , Psi09_04                                                         ,0.52,1652483.829,1,0
+ Generic                       , Covariance          , Psi09_05                                                         ,0.533,     nan     ,   nan     ,    nan    
+ Generic                       , Covariance          , Psi09_06                                                         ,0.648,0.762,0.395,0.85
+ Generic                       , Covariance          , Psi09_07                                                         ,0.828,0,1,0
+ Generic                       , Covariance          , Psi09_08                                                         ,0.621,0,1,0
+ Generic                       , Covariance          , Psi09_09                                                         ,1.441,0.544,0.008,2.65
+ Generic                       , Covariance          , Psi10_01                                                         ,0.5,0,1,0
+ Generic                       , Covariance          , Psi10_02                                                         ,0.349,0.266,0.189,1.31
+ Generic                       , Covariance          , Psi10_03                                                         ,0.36,0.594,0.544,0.61
+ Generic                       , Covariance          , Psi10_04                                                         ,0.394,1652274.579,1,0
+ Generic                       , Covariance          , Psi10_05                                                         ,0.504,0,1,0
+ Generic                       , Covariance          , Psi10_06                                                         ,0.487,0,1,0
+ Generic                       , Covariance          , Psi10_07                                                         ,0.547,1086826.428,1,0
+ Generic                       , Covariance          , Psi10_08                                                         ,0.478,1278233.974,1,0
+ Generic                       , Covariance          , Psi10_09                                                         ,0.65,0,1,0
+ Generic                       , Covariance          , Psi10_10                                                         ,1.083,0.469,0.021,2.31
+ Generic                       , Covariance          , Psi11_01                                                         ,0.5,2424815.901,1,0
+ Generic                       , Covariance          , Psi11_02                                                         ,0.495,2424815.901,1,0
+ Generic                       , Covariance          , Psi11_03                                                         ,0.569,0,1,0
+ Generic                       , Covariance          , Psi11_04                                                         ,0.311,0,1,0
+ Generic                       , Covariance          , Psi11_05                                                         ,0.763,     nan     ,   nan     ,    nan    
+ Generic                       , Covariance          , Psi11_06                                                         ,0.629,2424815.901,1,0
+ Generic                       , Covariance          , Psi11_07                                                         ,0.687,2659467.606,1,0
+ Generic                       , Covariance          , Psi11_08                                                         ,0.476,0,1,0
+ Generic                       , Covariance          , Psi11_09                                                         ,0.669,2424815.901,1,0
+ Generic                       , Covariance          , Psi11_10                                                         ,0.584,0,1,0
+ Generic                       , Covariance          , Psi11_11                                                         ,1.345,4849631.802,1,0
