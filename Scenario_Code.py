@@ -5,7 +5,6 @@ from math import *
 from numpy.linalg import det, cholesky, multi_dot, cond
 from scipy.linalg import cho_solve, cho_factor, solve, pinv
 import re
-from statsmodels.sandbox.distributions.multivariate import mvstdnormcdf
 from functools import partial
 import sys
 import itertools
@@ -173,13 +172,6 @@ def cdfmvnGHK(a, r, s):
 def cdfn(a):
 	out = norm.cdf(a[:, 0])
 	return (out)
-
-
-# Procedure to obtain bi-variate normal distribution CDF
-def cdfbvn(a1, a2, r):
-	low_x = -np.inf * np.ones(2)
-	up_x = np.array([a1, a2])
-	return (mvstdnormcdf(low_x, up_x, r, abseps=1e-6))
 
 
 # Procedure to obtain inverse of univariate normal distribution CDF
@@ -439,14 +431,10 @@ def lprT(iter, parm, Data, dp_progress):
 				mean_final = np.divide(mean_gu, om)
 
 				var_final = corrvc(var_gu)
-				nc_curr = var_final.shape[0]
-
-				if (nc_curr > 2):
-					seed20 = seednext
-					p4_temp, sss = cdfmvnGHK(mean_final.T, var_final, seed20)
-					seednext = sss
-				elif (nc_curr == 2):
-					p4_temp = cdfbvn(mean_final[0, 0], mean_final[1, 0], var_final[0, 1])
+				nc_curr = var_final.shape[0]				
+				seed20 = seednext
+				p4_temp, sss = cdfmvnGHK(mean_final.T, var_final, seed20)
+				seednext = sss			
 
 				Likelihood[i, Alt_chosen-1] = p4_temp
 
